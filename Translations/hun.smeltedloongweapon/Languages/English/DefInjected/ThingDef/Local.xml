@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CE_NY_LoongLEI.label>Enhanced Grenade</CE_NY_LoongLEI.label>
+  <NY_LoongAR.description>Equipped with Yelong power system, this assault rifle features precise burst fire and high stability for combat.</NY_LoongAR.description>
+  <NY_LoongAR.label>Yelong Assault Rifle - Type I</NY_LoongAR.label>
+  <NY_LoongARB.description>Yelong Assault Rifle with underbarrel grenade launcher, delivering dual combat effectiveness through armor penetration and suppression.</NY_LoongARB.description>
+  <NY_LoongARB.label>Yelong Assault Rifle - Type II</NY_LoongARB.label>
+  <NY_LoongARC.description>Yelong Lightweight High-Rate-of-Fire Rifle, featuring weight reduction design and high fire rate optimized for mobile warfare.</NY_LoongARC.description>
+  <NY_LoongARC.label>Yelong Assault Rifle - Type III</NY_LoongARC.label>
+  <NY_LoongCD.description>Monolithic dragon-hunting blade, high hardness and impact resistance, powerful cutting ability</NY_LoongCD.description>
+  <NY_LoongCD.label>Dragon-Hunting Metal Longsword</NY_LoongCD.label>
+  <NY_LoongCD.tools.0.label>Hilt</NY_LoongCD.tools.0.label>
+  <NY_LoongCD.tools.1.label>Slash</NY_LoongCD.tools.1.label>
+  <NY_LoongCJ.description>Enhanced with powered explosives, heavy-duty shearing tool with razor-sharp blades; the cutting edges possess formidable lethality.</NY_LoongCJ.description>
+  <NY_LoongCJ.label>Powered Explosive Shears</NY_LoongCJ.label>
+  <NY_LoongCJ.tools.0.label>Handle</NY_LoongCJ.tools.0.label>
+  <NY_LoongCJ.tools.1.label>Blade</NY_LoongCJ.tools.1.label>
+  <NY_LoongCJZ.description>Long-handled power chainsaw with high-speed blade, powerful cutting capability; frequently issued to the military due to relatively convenient training and maintenance.</NY_LoongCJZ.description>
+  <NY_LoongCJZ.label>Long-handled power chainsaw</NY_LoongCJZ.label>
+  <NY_LoongCJZ.tools.0.label>Handle</NY_LoongCJZ.tools.0.label>
+  <NY_LoongCJZ.tools.1.label>Cutting</NY_LoongCJZ.tools.1.label>
+  <NY_LoongCL.description>A long-handled sickle meticulously designed by Yelong craftsmen, featuring a one-piece forged metal blade suitable for both slashing and harvesting.</NY_LoongCL.description>
+  <NY_LoongCL.label>Metal long sickle</NY_LoongCL.label>
+  <NY_LoongCL.tools.0.label>Handle</NY_LoongCL.tools.0.label>
+  <NY_LoongCL.tools.1.label>Blade</NY_LoongCL.tools.1.label>
+  <NY_LoongCQB.description>Yelong Hunter SMG, lightweight design with high rate of fire for close-range suppression.</NY_LoongCQB.description>
+  <NY_LoongCQB.label>Yelong Hunter SMG</NY_LoongCQB.label>
+  <NY_LoongCQBC.description>Hunter SMG Type II, upgraded with lightweight construction and optimized for mobile assault performance.</NY_LoongCQBC.description>
+  <NY_LoongCQBC.label>Yelong Hunter SMG — Type II</NY_LoongCQBC.label>
+  <NY_LoongG.description>Tianshou Compound Bow: Adjustable draw weight, portable and powerful hunting tool.</NY_LoongG.description>
+  <NY_LoongG.label>"Tianshou" Compound Bow</NY_LoongG.label>
+  <NY_LoongJJP.description>Yelong Crafted Anti-Material Rifle: Delivers precise long-range strikes against light armor and fortifications.</NY_LoongJJP.description>
+  <NY_LoongJJP.label>Yelong Anti-Material Sniper Rifle</NY_LoongJJP.label>
+  <NY_LoongJJQ.description>Hunter-type Yelong Sniper Rifle, high-power rounds capable of penetrating heavy armor.</NY_LoongJJQ.description>
+  <NY_LoongJJQ.label>Yelong Hunter Sniper Rifle</NY_LoongJJQ.label>
+  <NY_LoongJQ.description>Yelong Heavy Machine Gun, large-caliber belt-fed ammunition delivering powerful long-range anti-armor suppression fire.</NY_LoongJQ.description>
+  <NY_LoongJQ.label>Yelong Heavy Machine Gun</NY_LoongJQ.label>
+  <NY_LoongLEI.description>Dual-Lock Enhanced Grenade: Delayed fuse combined with armor-piercing shrapnel doubles the damage output.</NY_LoongLEI.description>
+  <NY_LoongLEI.label>Enhanced Grenade</NY_LoongLEI.label>
+  <NY_LoongSQ.description>Yelong Extended Magazine Pistol: Expanded capacity extends range, with a stable grip for improved accuracy.</NY_LoongSQ.description>
+  <NY_LoongSQ.label>Yelong Extended Pistol</NY_LoongSQ.label>
+  <NY_LoongSTC.description>Electrically powered double-headed hammer; delivers heavy blows that break defenses and inflict paralysis.</NY_LoongSTC.description>
+  <NY_LoongSTC.label>High-pressure double-headed hammer</NY_LoongSTC.label>
+  <NY_LoongSTC.tools.0.label>Handle</NY_LoongSTC.tools.0.label>
+  <NY_LoongSTC.tools.1.label>Hammer</NY_LoongSTC.tools.1.label>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<loadFolders>
+  <v1.6>
+    <li>Common</li>
+    <li IfModActive="administrator.ghostproductionline">Translations/administrator.ghostproductionline</li>
+    <li IfModActive="aoba.deadmanswitch.core">Translations/aoba.deadmanswitch.core</li>
+    <li IfModActive="chickencolonel.beachcombing">Translations/chickencolonel.beachcombing</li>
+    <li IfModActive="daylight.rlesexpansionproductps">Translations/daylight.rlesexpansionproductps</li>
+    <li IfModActive="hun.smeltedloongweapon">Translations/hun.smeltedloongweapon</li>
+    <li IfModActive="lemontea.shadowcompany">Translations/lemontea.shadowcompany</li>
+    <li IfModActive="maple.deadmanswitch.superassemblymaster">Translations/maple.deadmanswitch.superassemblymaster</li>
+    <li IfModActive="milple.expertstairs">Translations/milple.expertstairs</li>
+    <li IfModActive="sg.ratkin">Translations/sg.ratkin</li>
+    <li IfModActive="thewwworld.ratkinwealthstoryteller">Translations/thewwworld.ratkinwealthstoryteller</li>
+    <li IfModActive="wuhuansuiyue.defensivenetworkexpanded">Translations/wuhuansuiyue.defensivenetworkexpanded</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Translations/xmb.ancienturbanruins.mo</li>
+    <li IfModActive="yushiren.bandwidthcasket">Translations/yushiren.bandwidthcasket</li>
+  </v1.6>
+  <v1.7>
+    <li>Common</li>
+    <li IfModActive="administrator.ghostproductionline">Translations/administrator.ghostproductionline</li>
+    <li IfModActive="aoba.deadmanswitch.core">Translations/aoba.deadmanswitch.core</li>
+    <li IfModActive="chickencolonel.beachcombing">Translations/chickencolonel.beachcombing</li>
+    <li IfModActive="daylight.rlesexpansionproductps">Translations/daylight.rlesexpansionproductps</li>
+    <li IfModActive="hun.smeltedloongweapon">Translations/hun.smeltedloongweapon</li>
+    <li IfModActive="lemontea.shadowcompany">Translations/lemontea.shadowcompany</li>
+    <li IfModActive="maple.deadmanswitch.superassemblymaster">Translations/maple.deadmanswitch.superassemblymaster</li>
+    <li IfModActive="milple.expertstairs">Translations/milple.expertstairs</li>
+    <li IfModActive="sg.ratkin">Translations/sg.ratkin</li>
+    <li IfModActive="thewwworld.ratkinwealthstoryteller">Translations/thewwworld.ratkinwealthstoryteller</li>
+    <li IfModActive="wuhuansuiyue.defensivenetworkexpanded">Translations/wuhuansuiyue.defensivenetworkexpanded</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Translations/xmb.ancienturbanruins.mo</li>
+    <li IfModActive="yushiren.bandwidthcasket">Translations/yushiren.bandwidthcasket</li>
+  </v1.7>
+</loadFolders>

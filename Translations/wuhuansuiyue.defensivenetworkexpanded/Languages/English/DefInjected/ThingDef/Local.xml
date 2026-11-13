@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DNX_MiningDrone.description>An experimental drone designed to verify the automated mining process for deep ore veins. It will fly to the nearest scanned deep mineral deposit and continue mining, though built-in battery and charging logic are not yet installed.</DNX_MiningDrone.description>
+  <DNX_MiningDrone.label>Experimental Mining Drone</DNX_MiningDrone.label>
+</LanguageData>

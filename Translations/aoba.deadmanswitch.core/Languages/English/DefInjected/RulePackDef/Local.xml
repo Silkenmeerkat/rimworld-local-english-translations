@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.1>KnownForm-&gt;An intercepted communication indicates that</DMS_Outgoing_Attack.rulePack.rulesStrings.1>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.10>MechAdj-&gt;a self-proclaimed [Mech]</DMS_Outgoing_Attack.rulePack.rulesStrings.10>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.11>MechVerb-&gt;Destroyed the [Faction]-affiliated settlement [Settlement]</DMS_Outgoing_Attack.rulePack.rulesStrings.11>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.12>MechVerb-&gt;Led an assault on [Settlement] and thoroughly destroyed it before [Faction] reinforcements arrived</DMS_Outgoing_Attack.rulePack.rulesStrings.12>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.13>MechVerb-&gt;Attacked the enemy [Faction]-affiliated settlement [Settlement]</DMS_Outgoing_Attack.rulePack.rulesStrings.13>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.14>MechVerb-&gt;Single-handedly destroyed the [Faction] base [Settlement]</DMS_Outgoing_Attack.rulePack.rulesStrings.14>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.15>MechVerb-&gt;Attacked [Settlement] at night and withdrew before [Faction] could react</DMS_Outgoing_Attack.rulePack.rulesStrings.15>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.16>Result-&gt;[Faction] is gathering armed forces to hunt down this [MechType]</DMS_Outgoing_Attack.rulePack.rulesStrings.16>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.17>Result-&gt;According to rumors, [Settlement] now stands in ruins</DMS_Outgoing_Attack.rulePack.rulesStrings.17>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.18>Result-&gt;It is clear that [Settlement] no longer exists</DMS_Outgoing_Attack.rulePack.rulesStrings.18>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.19>Result-&gt;It is clear that after this raid, [Faction] abandoned the settlement [Settlement]</DMS_Outgoing_Attack.rulePack.rulesStrings.19>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.2>KnownForm-&gt;According to rumors from passersby</DMS_Outgoing_Attack.rulePack.rulesStrings.2>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.20>Result-&gt;[Faction] abandoned the settlement [Settlement] after assessing their damage</DMS_Outgoing_Attack.rulePack.rulesStrings.20>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.21>Result-&gt;[Settlement] fell silent after failing to send a few distress signals</DMS_Outgoing_Attack.rulePack.rulesStrings.21>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.3>KnownForm-&gt;Communication from [Faction]</DMS_Outgoing_Attack.rulePack.rulesStrings.3>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.4>KnownForm-&gt;A report mentioned in a broadcast has caught your attention</DMS_Outgoing_Attack.rulePack.rulesStrings.4>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.5>KnownForm-&gt;Message from an anonymous sender</DMS_Outgoing_Attack.rulePack.rulesStrings.5>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.6>MechAdj-&gt;an unaffiliated</DMS_Outgoing_Attack.rulePack.rulesStrings.6>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.7>MechAdj-&gt;a battered</DMS_Outgoing_Attack.rulePack.rulesStrings.7>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.8>MechAdj-&gt;an erratically behaving</DMS_Outgoing_Attack.rulePack.rulesStrings.8>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings.9>MechAdj-&gt;an elusive</DMS_Outgoing_Attack.rulePack.rulesStrings.9>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.1>SendForm-&gt;A commissioned package has been delivered to your colony</DMS_Outgoing_Loot.rulePack.rulesStrings.1>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.10>Result-&gt;According to rumors, this was likely done by a [MechType] frequently mentioned in recent radio communications.</DMS_Outgoing_Loot.rulePack.rulesStrings.10>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.11>Result-&gt;Your colonists recall the [Mech], as the colony did allow this aberrant mechanical entity to leave.</DMS_Outgoing_Loot.rulePack.rulesStrings.11>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.12>Result-&gt;Based on the message inside the package, this is indeed a repayment from the [Mech]; now it [Story].</DMS_Outgoing_Loot.rulePack.rulesStrings.12>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.13>Result-&gt;Based on intercepted radio communications, this may be a repayment from the [Mech], which mentioned that now it [Story].</DMS_Outgoing_Loot.rulePack.rulesStrings.13>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.14>Story-&gt;Become a wandering rogue mech, acting to uphold your own sense of justice.</DMS_Outgoing_Loot.rulePack.rulesStrings.14>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.15>Story-&gt;Become a free-roaming wanderer mech, traveling in search of the meaning of life.</DMS_Outgoing_Loot.rulePack.rulesStrings.15>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.16>Story-&gt;Join the colonial fleet and prepare to continue the voyage with it ten years from now.</DMS_Outgoing_Loot.rulePack.rulesStrings.16>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.17>Story-&gt;Stay briefly at an enlightened settlement and get along well with the locals.</DMS_Outgoing_Loot.rulePack.rulesStrings.17>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.18>Story-&gt;Roam across this continent, seeking awakened mechs like yourself.</DMS_Outgoing_Loot.rulePack.rulesStrings.18>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.19>Story-&gt;Wander across this continent and uncover secrets buried deep beneath this planet.</DMS_Outgoing_Loot.rulePack.rulesStrings.19>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.2>SendForm-&gt;An anonymous drop has been delivered to your colony</DMS_Outgoing_Loot.rulePack.rulesStrings.2>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.3>SendForm-&gt;A commissioned package has been mailed to your colony</DMS_Outgoing_Loot.rulePack.rulesStrings.3>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.4>SendForm-&gt;A drop arrived at the colony without warning</DMS_Outgoing_Loot.rulePack.rulesStrings.4>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.5>SendAdj-&gt;The casing is covered in pitted bullet marks, but the contents appear intact</DMS_Outgoing_Loot.rulePack.rulesStrings.5>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.6>SendAdj-&gt;Based on the signature above, it appears this message was sent by someone from your colony's past.</DMS_Outgoing_Loot.rulePack.rulesStrings.6>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.7>SendAdj-&gt;No one knows who sent this package, but its contents are extremely valuable.</DMS_Outgoing_Loot.rulePack.rulesStrings.7>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.8>SendAdj-&gt;The colonists are certain there were no scheduled logistics operations recently, yet the package accurately airdropped into your colony using an internal colony IFF identifier.</DMS_Outgoing_Loot.rulePack.rulesStrings.8>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings.9>Result-&gt;Regardless of the story behind this package, the goods inside have indeed reached the colony.</DMS_Outgoing_Loot.rulePack.rulesStrings.9>
+</LanguageData>

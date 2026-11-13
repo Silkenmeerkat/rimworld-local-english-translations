@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RLE_AreaNumberPaintDM.label>Area Number Default Color</RLE_AreaNumberPaintDM.label>
+  <RLE_AreaNumberPaintSecDM.label>Area Number Red Color</RLE_AreaNumberPaintSecDM.label>
+  <RLE_ArmouryDM.label>Floor decoration "Armory"</RLE_ArmouryDM.label>
+  <RLE_ArtilleryShellDM.label>Floor decoration "Mortar Ammo Storage"</RLE_ArtilleryShellDM.label>
+  <RLE_BathroomDM.label>Floor decoration "Bathroom"</RLE_BathroomDM.label>
+  <RLE_BedroomDM.label>Floor decoration "Bedroom"</RLE_BedroomDM.label>
+  <RLE_BoilerRoomDM.label>"Boiler Facility" floor decoration</RLE_BoilerRoomDM.label>
+  <RLE_ButcheryDM.label>Floor decoration "Meat Processing Facility"</RLE_ButcheryDM.label>
+  <RLE_CautionDM.label>Floor decoration "Caution"</RLE_CautionDM.label>
+  <RLE_CleanRoomDM.label>Floor decoration "Clean Room"</RLE_CleanRoomDM.label>
+  <RLE_ColdStorageDM.label>Floor decoration "Cooler"</RLE_ColdStorageDM.label>
+  <RLE_CrematoryDM.label>Floor decoration "Crematorium"</RLE_CrematoryDM.label>
+  <RLE_DangerDM.label>Floor decoration "Danger"</RLE_DangerDM.label>
+  <RLE_DiningRoomDM.label>Floor decoration "Dining Room"</RLE_DiningRoomDM.label>
+  <RLE_DispenseSlotDM.label>Floor decoration "Output"</RLE_DispenseSlotDM.label>
+  <RLE_ElectricSmelter.label>Electric Blast Furnace</RLE_ElectricSmelter.label>
+  <RLE_EvacuationSiteDM.label>"Safe Zone" floor decoration</RLE_EvacuationSiteDM.label>
+  <RLE_ExecutionAreaDM.label>Floor decoration "Execution Ground"</RLE_ExecutionAreaDM.label>
+  <RLE_ExitDM.label>Floor decoration "Exit"</RLE_ExitDM.label>
+  <RLE_FactoryDM.label>Floor decoration "Factory"</RLE_FactoryDM.label>
+  <RLE_FarmDM.label>Floor decoration "Farm"</RLE_FarmDM.label>
+  <RLE_FoodStorageDM.label>Floor decoration "Food Storage"</RLE_FoodStorageDM.label>
+  <RLE_GuestRoomDM.label>Floor decoration "Guest Room"</RLE_GuestRoomDM.label>
+  <RLE_InterceptionDM.label>Floor decoration "Engagement Point"</RLE_InterceptionDM.label>
+  <RLE_KeepOutDM.label>Floor decoration "No Entry"</RLE_KeepOutDM.label>
+  <RLE_KillzoneDM.label>Floor decoration "Kill Zone"</RLE_KillzoneDM.label>
+  <RLE_KitchenDM.label>Floor decoration "Kitchen"</RLE_KitchenDM.label>
+  <RLE_LaboratoryDM.label>Floor decoration "Laboratory"</RLE_LaboratoryDM.label>
+  <RLE_MedicalDM.label>"Medical Room" floor decoration</RLE_MedicalDM.label>
+  <RLE_MeditationDM.label>Floor decoration "Meditation Room"</RLE_MeditationDM.label>
+  <RLE_MorgueDM.label>Floor decoration "Morgue"</RLE_MorgueDM.label>
+  <RLE_MortarBaseDM.label>Floor decoration "Mortar Platform"</RLE_MortarBaseDM.label>
+  <RLE_NuclearDM.label>Floor decoration "Nuclear Facility"</RLE_NuclearDM.label>
+  <RLE_OilEefineryDM.label>Floor decoration "Refinery"</RLE_OilEefineryDM.label>
+  <RLE_OperationRoomDM.label>Floor decoration "Comms Room"</RLE_OperationRoomDM.label>
+  <RLE_PedroomDM.label>Floor decoration "Pet's Bedroom"</RLE_PedroomDM.label>
+  <RLE_PowerPlantDM.label>Floor decoration "Power Plant"</RLE_PowerPlantDM.label>
+  <RLE_PowerfulKitchen.label>Electric Stove</RLE_PowerfulKitchen.label>
+  <RLE_PrisonDM.label>Floor decoration "Prison"</RLE_PrisonDM.label>
+  <RLE_QuarryDM.label>Floor decoration "Quarry"</RLE_QuarryDM.label>
+  <RLE_RanchDM.label>Floor decoration "Ranch"</RLE_RanchDM.label>
+  <RLE_RecreationDM.label>Floor decoration "Recreation Room"</RLE_RecreationDM.label>
+  <RLE_RestaurantDM.label>Floor decoration "Restaurant"</RLE_RestaurantDM.label>
+  <RLE_RestroomDM.label>Floor decoration "Restroom"</RLE_RestroomDM.label>
+  <RLE_ServerRoomDM.label>Floor decoration "Server Room"</RLE_ServerRoomDM.label>
+  <RLE_SlaveDM.label>Floor decoration "Slave"</RLE_SlaveDM.label>
+  <RLE_SpaceshipDM.label>Floor decoration "Spaceship"</RLE_SpaceshipDM.label>
+  <RLE_StorageDM.label>Floor decoration "Storage"</RLE_StorageDM.label>
+  <RLE_ThrowingSlotDM.label>Floor decoration "Input"</RLE_ThrowingSlotDM.label>
+  <RLE_VaultDM.label>Floor decoration "Safe"</RLE_VaultDM.label>
+  <RLE_WasteDM.label>Floor decoration "Waste Storage"</RLE_WasteDM.label>
+  <RLE_WatersourceDM.label>"Water Source" floor decoration</RLE_WatersourceDM.label>
+  <RLE_WmdDM.label>Floor decoration "Destructive Weaponry"</RLE_WmdDM.label>
+  <RLE_WorkshopDM.label>Floor decoration "Workshop"</RLE_WorkshopDM.label>
+  <RLE_graveyardDM.label>Floor decoration "Graveyard"</RLE_graveyardDM.label>
+  <RLE_receptionDM.label>Floor decoration "Lounge"</RLE_receptionDM.label>
+  <RLE_vegetablefieldDM.label>Floor decoration "Vegetable Garden"</RLE_vegetablefieldDM.label>
+</LanguageData>

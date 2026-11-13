@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Make_BlessDevilClothBlack.description>Crafting a Blessed Devilstrand Cloth in black.</Make_BlessDevilClothBlack.description>
+  <Make_BlessDevilClothBlack.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothBlack.jobString>
+  <Make_BlessDevilClothBlack.label>Crafting a Blessed Devilstrand Cloth (black).</Make_BlessDevilClothBlack.label>
+  <Make_BlessDevilClothBlue.description>Crafting a Blessed Devilstrand Cloth in blue.</Make_BlessDevilClothBlue.description>
+  <Make_BlessDevilClothBlue.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothBlue.jobString>
+  <Make_BlessDevilClothBlue.label>Craft Blessed Devilstrand Cloth (Blue).</Make_BlessDevilClothBlue.label>
+  <Make_BlessDevilClothGreen.description>Crafting a Blessed Devilstrand Cloth in green.</Make_BlessDevilClothGreen.description>
+  <Make_BlessDevilClothGreen.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothGreen.jobString>
+  <Make_BlessDevilClothGreen.label>Crafting a Blessed Devilstrand Cloth (green).</Make_BlessDevilClothGreen.label>
+  <Make_BlessDevilClothPurple.description>Craft a Blessed Devilstrand Cloth (Purple).</Make_BlessDevilClothPurple.description>
+  <Make_BlessDevilClothPurple.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothPurple.jobString>
+  <Make_BlessDevilClothPurple.label>Craft a Blessed Devilstrand Cloth (Purple).</Make_BlessDevilClothPurple.label>
+  <Make_BlessDevilClothRed.description>Crafting a red Blessed Devilstrand Cloth.</Make_BlessDevilClothRed.description>
+  <Make_BlessDevilClothRed.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothRed.jobString>
+  <Make_BlessDevilClothRed.label>Craft Blessed Devilstrand Cloth (Red).</Make_BlessDevilClothRed.label>
+  <Make_BlessDevilClothWhite.description>Craft a Blessed Devilstrand Cloth (White).</Make_BlessDevilClothWhite.description>
+  <Make_BlessDevilClothWhite.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothWhite.jobString>
+  <Make_BlessDevilClothWhite.label>Crafting a Blessed Devilstrand Cloth (white).</Make_BlessDevilClothWhite.label>
+  <Make_BlessDevilClothYellow.description>Crafting a Blessed Devilstrand Cloth in yellow.</Make_BlessDevilClothYellow.description>
+  <Make_BlessDevilClothYellow.jobString>Crafting Blessed Devilstrand Cloth</Make_BlessDevilClothYellow.jobString>
+  <Make_BlessDevilClothYellow.label>Crafting a Blessed Devilstrand Cloth (yellow).</Make_BlessDevilClothYellow.label>
+  <RLEMake_ArtificialCoal.description>Uses the high-temperature compression device installed in the advanced metal smelter to produce artificial coal.</RLEMake_ArtificialCoal.description>
+  <RLEMake_ArtificialCoal.jobString>Artificial coal</RLEMake_ArtificialCoal.jobString>
+  <RLEMake_ArtificialCoal.label>Artificial coal production x10</RLEMake_ArtificialCoal.label>
+  <RLEMake_ArtificialCoalBulk.description>Uses the high-temperature compression device installed in the advanced metal smelter to produce artificial coal.</RLEMake_ArtificialCoalBulk.description>
+  <RLEMake_ArtificialCoalBulk.jobString>Artificial coal</RLEMake_ArtificialCoalBulk.jobString>
+  <RLEMake_ArtificialCoalBulk.label>Artificial coal production x20</RLEMake_ArtificialCoalBulk.label>
+  <RLEMake_ArtificialCoalBulkL.description>Uses the high-temperature compression device installed in the advanced metal smelter to produce artificial coal.</RLEMake_ArtificialCoalBulkL.description>
+  <RLEMake_ArtificialCoalBulkL.jobString>Artificial coal</RLEMake_ArtificialCoalBulkL.jobString>
+  <RLEMake_ArtificialCoalBulkL.label>Artificial coal production x30</RLEMake_ArtificialCoalBulkL.label>
+  <RLEMake_BadDevilCloth.description>Process bio-liquefied fuel by mixing steel and silver fibers to synthesize Bad Devil Cloth.
+Product: Bad Devil Cloth ×20</RLEMake_BadDevilCloth.description>
+  <RLEMake_BadDevilCloth.jobString>Bad Devil Cloth being produced</RLEMake_BadDevilCloth.jobString>
+  <RLEMake_BadDevilCloth.label>Bad Devil Cloth production batch ×1</RLEMake_BadDevilCloth.label>
+  <RLEMake_BadDevilClothBulk.description>Mix steel and silver fibers with bio-liquefied fuel to synthesize Bad Devil Cloth.
+Product: Bad Devil Cloth ×40</RLEMake_BadDevilClothBulk.description>
+  <RLEMake_BadDevilClothBulk.jobString>Bad Devil Cloth being produced</RLEMake_BadDevilClothBulk.jobString>
+  <RLEMake_BadDevilClothBulk.label>Bad Devil Cloth production batch ×2</RLEMake_BadDevilClothBulk.label>
+  <RLEMake_BadDevilClothTri.description>Mix steel and silver fibers with bio-liquefied fuel to synthesize Bad Devil Cloth.
+Product: Bad Devil Cloth ×60</RLEMake_BadDevilClothTri.description>
+  <RLEMake_BadDevilClothTri.jobString>Bad Devil Cloth being produced</RLEMake_BadDevilClothTri.jobString>
+  <RLEMake_BadDevilClothTri.label>Manufacture Bad Devil Cloth ×3 batches</RLEMake_BadDevilClothTri.label>
+  <RLEMake_BioConcrete.description>Crush stone into aggregate, bind it with bio-liquefied fuel to produce bio-concrete with moderate strength and toughness.
+Product: Bio-concrete ×12</RLEMake_BioConcrete.description>
+  <RLEMake_BioConcrete.jobString>Producing bio-concrete</RLEMake_BioConcrete.jobString>
+  <RLEMake_BioConcrete.label>Produce bio-concrete x1 batch</RLEMake_BioConcrete.label>
+  <RLEMake_BioConcreteBulk.description>Crush stone into aggregate, bind it with bio-liquefied fuel to produce bio-concrete with moderate strength and toughness.
+Product: Bio-concrete ×24</RLEMake_BioConcreteBulk.description>
+  <RLEMake_BioConcreteBulk.jobString>Producing bio-concrete</RLEMake_BioConcreteBulk.jobString>
+  <RLEMake_BioConcreteBulk.label>Producing bio-concrete ×2 batches</RLEMake_BioConcreteBulk.label>
+  <RLEMake_BioConcreteTri.description>Crush stone into aggregate, bind it with bio-liquefied fuel to produce bio-concrete with moderate strength and toughness.
+Product: Bio-concrete ×36</RLEMake_BioConcreteTri.description>
+  <RLEMake_BioConcreteTri.jobString>Producing bio-concrete</RLEMake_BioConcreteTri.jobString>
+  <RLEMake_BioConcreteTri.label>Producing bio-concrete ×3 batches</RLEMake_BioConcreteTri.label>
+  <RLEMake_BlocksDeepStone.description>Cut chunks of deep rock into appropriate sizes and shapes for use in construction, etc.</RLEMake_BlocksDeepStone.description>
+  <RLEMake_BlocksDeepStone.label>Create deep rock block</RLEMake_BlocksDeepStone.label>
+  <RLEMake_BlocksHybridRock.description>Cut chunks of basalt rock into appropriate sizes and shapes for use in construction, etc.</RLEMake_BlocksHybridRock.description>
+  <RLEMake_BlocksHybridRock.label>Create basalt rock block</RLEMake_BlocksHybridRock.label>
+  <RLEMake_BulkRawBlendedFishA.ingredients.0.filter.customSummary>Fish</RLEMake_BulkRawBlendedFishA.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedFishA.label>Blend Fish A x20</RLEMake_BulkRawBlendedFishA.label>
+  <RLEMake_BulkRawBlendedFishB.ingredients.0.filter.customSummary>Fish</RLEMake_BulkRawBlendedFishB.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedFishB.label>Blend Fish B x20</RLEMake_BulkRawBlendedFishB.label>
+  <RLEMake_BulkRawBlendedMeatA.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulkRawBlendedMeatA.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedMeatA.label>Blend meat A×50</RLEMake_BulkRawBlendedMeatA.label>
+  <RLEMake_BulkRawBlendedMeatB.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulkRawBlendedMeatB.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedMeatB.label>Blend Meat B x 50</RLEMake_BulkRawBlendedMeatB.label>
+  <RLEMake_BulkRawBlendedMeatC.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulkRawBlendedMeatC.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedMeatC.label>Blend Meat C x 50</RLEMake_BulkRawBlendedMeatC.label>
+  <RLEMake_BulkRawBlendedMeatD.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulkRawBlendedMeatD.ingredients.0.filter.customSummary>
+  <RLEMake_BulkRawBlendedMeatD.label>Blend Meat D x 50</RLEMake_BulkRawBlendedMeatD.label>
+  <RLEMake_BulksRawBlendedMeatA.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulksRawBlendedMeatA.ingredients.0.filter.customSummary>
+  <RLEMake_BulksRawBlendedMeatA.label>Blend meat A×100</RLEMake_BulksRawBlendedMeatA.label>
+  <RLEMake_BulksRawBlendedMeatB.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulksRawBlendedMeatB.ingredients.0.filter.customSummary>
+  <RLEMake_BulksRawBlendedMeatB.label>Blend Meat B x 100</RLEMake_BulksRawBlendedMeatB.label>
+  <RLEMake_BulksRawBlendedMeatC.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulksRawBlendedMeatC.ingredients.0.filter.customSummary>
+  <RLEMake_BulksRawBlendedMeatC.label>Blend Meat C x 100</RLEMake_BulksRawBlendedMeatC.label>
+  <RLEMake_BulksRawBlendedMeatD.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_BulksRawBlendedMeatD.ingredients.0.filter.customSummary>
+  <RLEMake_BulksRawBlendedMeatD.label>Blend Meat D x 100</RLEMake_BulksRawBlendedMeatD.label>
+  <RLEMake_CMTComponentIndBulk.description>Produces 2 components at once.</RLEMake_CMTComponentIndBulk.description>
+  <RLEMake_CMTComponentIndBulk.jobString>Component Production in Progress</RLEMake_CMTComponentIndBulk.jobString>
+  <RLEMake_CMTComponentIndBulk.label>Component Production ×2</RLEMake_CMTComponentIndBulk.label>
+  <RLEMake_CMTComponentIndFour.description>Manufacturing 4 components at once.</RLEMake_CMTComponentIndFour.description>
+  <RLEMake_CMTComponentIndFour.jobString>Component Production in Progress</RLEMake_CMTComponentIndFour.jobString>
+  <RLEMake_CMTComponentIndFour.label>Component manufacturing x4</RLEMake_CMTComponentIndFour.label>
+  <RLEMake_CMTComponentIndTri.description>Produces 3 components at once.</RLEMake_CMTComponentIndTri.description>
+  <RLEMake_CMTComponentIndTri.jobString>Component Production in Progress</RLEMake_CMTComponentIndTri.jobString>
+  <RLEMake_CMTComponentIndTri.label>Component Production ×3</RLEMake_CMTComponentIndTri.label>
+  <RLEMake_CMTComponentSpaceBulk.description>Manufacturing 2 advanced components at once.</RLEMake_CMTComponentSpaceBulk.description>
+  <RLEMake_CMTComponentSpaceBulk.jobString>Advanced component manufacturing in progress</RLEMake_CMTComponentSpaceBulk.jobString>
+  <RLEMake_CMTComponentSpaceBulk.label>Advanced component manufacturing x2</RLEMake_CMTComponentSpaceBulk.label>
+  <RLEMake_CMTComponentSpaceFour.description>Manufacture 4 advanced components at once.</RLEMake_CMTComponentSpaceFour.description>
+  <RLEMake_CMTComponentSpaceFour.jobString>Advanced component manufacturing in progress</RLEMake_CMTComponentSpaceFour.jobString>
+  <RLEMake_CMTComponentSpaceFour.label>Advanced component manufacturing x4</RLEMake_CMTComponentSpaceFour.label>
+  <RLEMake_CMTComponentSpaceTri.description>Manufacturing 3 advanced components at once.</RLEMake_CMTComponentSpaceTri.description>
+  <RLEMake_CMTComponentSpaceTri.jobString>Advanced component manufacturing in progress</RLEMake_CMTComponentSpaceTri.jobString>
+  <RLEMake_CMTComponentSpaceTri.label>Advanced component manufacturing x3</RLEMake_CMTComponentSpaceTri.label>
+  <RLEMake_ChemfuelFromAnimalCorpse.description>Extracts organic matter from fresh corpses that have not yet begun to decompose to process them into bio-liquefied fuel. Since the bodies are not dissected, impurities mix in, resulting in lower efficiency compared to processing raw meat as fuel.\nProduct: Bio-liquefied fuel ×35\n\nHuman corpses can also be processed, but using human corpses for industrial product manufacturing is often considered an unethical issue and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.\nIf you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromAnimalCorpse.description>
+  <RLEMake_ChemfuelFromAnimalCorpse.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromAnimalCorpse.jobString>
+  <RLEMake_ChemfuelFromAnimalCorpse.label>Fresh corpses converted to fuel ×1 batch</RLEMake_ChemfuelFromAnimalCorpse.label>
+  <RLEMake_ChemfuelFromAnimalCorpseBulk.description>Extracts organic matter from fresh corpses that have not yet begun to decompose to process them into bio-liquefied fuel. Since the bodies are not dissected, impurities mix in, resulting in lower efficiency compared to processing raw meat as fuel.\nProduct: Bio-liquefied fuel ×70\n\nHuman corpses can also be processed, but using human corpses for industrial product manufacturing is often considered an unethical issue and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.\nIf you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromAnimalCorpseBulk.description>
+  <RLEMake_ChemfuelFromAnimalCorpseBulk.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromAnimalCorpseBulk.jobString>
+  <RLEMake_ChemfuelFromAnimalCorpseBulk.label>Fresh corpses converted to fuel ×2 batches</RLEMake_ChemfuelFromAnimalCorpseBulk.label>
+  <RLEMake_ChemfuelFromAnimalCorpseFour.description>Extract organic matter from fresh corpses that have not yet begun to rot and process it into bio-liquefied fuel. Since the bodies are not dismembered, impurities mix in, resulting in lower efficiency compared to processing raw meat as fuel.
+Product: Bio-liquefied fuel ×140
+
+Human corpses can also be processed, but using human corpses for industrial product manufacturing is generally considered an unethical act and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.
+If you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromAnimalCorpseFour.description>
+  <RLEMake_ChemfuelFromAnimalCorpseFour.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromAnimalCorpseFour.jobString>
+  <RLEMake_ChemfuelFromAnimalCorpseFour.label>Fresh corpse fuel conversion ×4 batches</RLEMake_ChemfuelFromAnimalCorpseFour.label>
+  <RLEMake_ChemfuelFromAnimalCorpseTri.description>Extract organic matter from fresh corpses that have not yet begun to rot and process it into bio-liquefied fuel. Since the bodies are not dismembered, impurities mix in, resulting in lower efficiency compared to processing raw meat as fuel.
+Product: Bio-liquefied fuel ×105
+
+Human corpses can also be processed, but using human corpses for industrial product manufacturing is generally considered an unethical act and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.
+If you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromAnimalCorpseTri.description>
+  <RLEMake_ChemfuelFromAnimalCorpseTri.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromAnimalCorpseTri.jobString>
+  <RLEMake_ChemfuelFromAnimalCorpseTri.label>Fresh corpses converted to fuel ×3 batches</RLEMake_ChemfuelFromAnimalCorpseTri.label>
+  <RLEMake_ChemfuelFromFoodRaw.description>Extracts organic matter from raw food (raw meat, raw vegetables, livestock products) and processes it into bio-liquefied fuel.\nProduct: Bio-liquefied fuel ×34</RLEMake_ChemfuelFromFoodRaw.description>
+  <RLEMake_ChemfuelFromFoodRaw.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoodRaw.jobString>
+  <RLEMake_ChemfuelFromFoodRaw.label>Convert raw ingredients to fuel ×1 batch</RLEMake_ChemfuelFromFoodRaw.label>
+  <RLEMake_ChemfuelFromFoodRawBulk.description>Extracts organic matter from raw food (raw meat, raw vegetables, livestock products) and processes it into bio-liquefied fuel.\nProduct: Bio-liquefied fuel ×68</RLEMake_ChemfuelFromFoodRawBulk.description>
+  <RLEMake_ChemfuelFromFoodRawBulk.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoodRawBulk.jobString>
+  <RLEMake_ChemfuelFromFoodRawBulk.label>Converts raw food to fuel ×2 batches</RLEMake_ChemfuelFromFoodRawBulk.label>
+  <RLEMake_ChemfuelFromFoodRawTri.description>Extracts organic matter from raw food (raw meat, raw vegetables, livestock products) and processes it into bio-liquefied fuel.\nProduct: Bio-liquefied fuel ×102</RLEMake_ChemfuelFromFoodRawTri.description>
+  <RLEMake_ChemfuelFromFoodRawTri.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoodRawTri.jobString>
+  <RLEMake_ChemfuelFromFoodRawTri.label>Converts raw food to fuel ×3 batches</RLEMake_ChemfuelFromFoodRawTri.label>
+  <RLEMake_ChemfuelFromFoods.description>Extracts organic matter from cooked food and other food items and processes it into bio-liquefied fuel. Note that the efficiency is extremely poor due to degradation from cooking or heating (only about 33% of the nutritional value can be effectively used). Only process unwanted food obtained unexpectedly.\nProduct: Bio-liquefied fuel ×10</RLEMake_ChemfuelFromFoods.description>
+  <RLEMake_ChemfuelFromFoods.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoods.jobString>
+  <RLEMake_ChemfuelFromFoods.label>Converts cooked food and other items to fuel ×1 batch</RLEMake_ChemfuelFromFoods.label>
+  <RLEMake_ChemfuelFromFoodsBulk.description>Extracts organic matter from cooked food and other food items to process them into bio-liquefied fuel. Note that the refining efficiency is extremely poor due to degradation from cooking or heating (only about 33% of the nutritional value can be effectively used). Only process unwanted food obtained unexpectedly.\nProduct: Bio-liquefied fuel ×20</RLEMake_ChemfuelFromFoodsBulk.description>
+  <RLEMake_ChemfuelFromFoodsBulk.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoodsBulk.jobString>
+  <RLEMake_ChemfuelFromFoodsBulk.label>Converts cooked food and other items to fuel ×2 batches</RLEMake_ChemfuelFromFoodsBulk.label>
+  <RLEMake_ChemfuelFromFoodsTri.description>Extracts organic matter from cooked food and other food items to process them into bio-liquefied fuel. Note that the refining efficiency is extremely poor due to degradation from cooking or heating (only about 33% of the nutritional value can be effectively used). Only process unwanted food obtained unexpectedly.\nProduct: Bio-liquefied fuel ×30</RLEMake_ChemfuelFromFoodsTri.description>
+  <RLEMake_ChemfuelFromFoodsTri.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromFoodsTri.jobString>
+  <RLEMake_ChemfuelFromFoodsTri.label>Cooked food and other items converted to fuel ×3 batches</RLEMake_ChemfuelFromFoodsTri.label>
+  <RLEMake_ChemfuelFromRottenAnimalCorpse.description>Extract organic matter from corpses that are rotting, dried, and skeletal, and process it into bio-liquefied fuel. Due to the effects of decomposition, production yield is extremely low.
+Product: Bio-liquefied fuel ×3
+
+Human corpses can also be processed, but using human corpses for industrial product manufacturing is generally considered an unethical act and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.
+If you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromRottenAnimalCorpse.description>
+  <RLEMake_ChemfuelFromRottenAnimalCorpse.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromRottenAnimalCorpse.jobString>
+  <RLEMake_ChemfuelFromRottenAnimalCorpse.label>Rotting corpse fuel conversion ×1 batch</RLEMake_ChemfuelFromRottenAnimalCorpse.label>
+  <RLEMake_ChemfuelFromRottenAnimalCorpseBulk.description>Extract organic matter from corpses that are rotting, dried, and skeletal, and process it into bio-liquefied fuel. Due to the effects of decomposition, production yield is extremely low.
+Product: Bio-liquefied fuel ×6
+
+Human corpses can also be processed, but using human corpses for industrial product manufacturing is generally considered an unethical act and is explicitly punishable as a crime in many sectors. However, on the planet where you currently reside, such rules do not exist.
+If you need equipment from the corpse, strip it before processing.</RLEMake_ChemfuelFromRottenAnimalCorpseBulk.description>
+  <RLEMake_ChemfuelFromRottenAnimalCorpseBulk.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromRottenAnimalCorpseBulk.jobString>
+  <RLEMake_ChemfuelFromRottenAnimalCorpseBulk.label>Rotting corpse fuel conversion ×2 batches</RLEMake_ChemfuelFromRottenAnimalCorpseBulk.label>
+  <RLEMake_ChemfuelFromWood.description>Extract organic matter from wood and process it into bio-liquefied fuel.
+Product: Bio-liquefied fuel ×34</RLEMake_ChemfuelFromWood.description>
+  <RLEMake_ChemfuelFromWood.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromWood.jobString>
+  <RLEMake_ChemfuelFromWood.label>Convert wood to fuel ×1 batch</RLEMake_ChemfuelFromWood.label>
+  <RLEMake_ChemfuelFromWoodBulk.description>Extract organic matter from wood and process it into bio-liquefied fuel.
+Product: Bio-liquefied fuel ×68</RLEMake_ChemfuelFromWoodBulk.description>
+  <RLEMake_ChemfuelFromWoodBulk.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromWoodBulk.jobString>
+  <RLEMake_ChemfuelFromWoodBulk.label>Convert wood to fuel ×2 batches</RLEMake_ChemfuelFromWoodBulk.label>
+  <RLEMake_ChemfuelFromWoodTri.description>Extract organic matter from wood and process it into bio-liquefied fuel.
+Product: Bio-liquefied fuel ×102</RLEMake_ChemfuelFromWoodTri.description>
+  <RLEMake_ChemfuelFromWoodTri.jobString>Processing bio-liquefied fuel</RLEMake_ChemfuelFromWoodTri.jobString>
+  <RLEMake_ChemfuelFromWoodTri.label>Convert wood to fuel ×3 batches</RLEMake_ChemfuelFromWoodTri.label>
+  <RLEMake_ChemfuelPlasteel.description>We mix powdered stone (containing silicon, etc.) and steel into bio-liquefied fuel, then process it under high temperature and pressure to synthesize plastite. This method of producing plastite is primitive; compared to the manufacturing methods used on advanced planets, it is very inefficient. However, since this method requires large-scale production facilities, it cannot be replicated on this planet.
+Product: Plastite ×10</RLEMake_ChemfuelPlasteel.description>
+  <RLEMake_ChemfuelPlasteel.jobString>Plastite being produced</RLEMake_ChemfuelPlasteel.jobString>
+  <RLEMake_ChemfuelPlasteel.label>Producing plastite ×1 batch</RLEMake_ChemfuelPlasteel.label>
+  <RLEMake_ChemfuelPlasteelBulk.description>Plastic steel is synthesized by mixing powdered stone (containing silicon, etc.) and steel with bio-liquefied fuel, then processing under high temperature and pressure. This method for producing plastic steel is primitive; compared to the manufacturing methods adopted on planets with advanced technology, it is very inefficient. However, since this method requires large-scale manufacturing equipment, it cannot be imitated on this planet.
+Product: Plastic steel ×20</RLEMake_ChemfuelPlasteelBulk.description>
+  <RLEMake_ChemfuelPlasteelBulk.jobString>Plastite being produced</RLEMake_ChemfuelPlasteelBulk.jobString>
+  <RLEMake_ChemfuelPlasteelBulk.label>Manufacture plastic steel ×2 batches</RLEMake_ChemfuelPlasteelBulk.label>
+  <RLEMake_ChemfuelPlasteelTri.description>Plastic steel is synthesized by mixing powdered stone (containing silicon, etc.) and steel with bio-liquefied fuel, then processing under high temperature and pressure. This method for producing plastic steel is primitive; compared to the manufacturing methods adopted on planets with advanced technology, it is very inefficient. However, since this method requires large-scale manufacturing equipment, it cannot be imitated on this planet.
+Product: Plastic steel ×30</RLEMake_ChemfuelPlasteelTri.description>
+  <RLEMake_ChemfuelPlasteelTri.jobString>Plastite being produced</RLEMake_ChemfuelPlasteelTri.jobString>
+  <RLEMake_ChemfuelPlasteelTri.label>Manufacture plastic steel ×3 batches</RLEMake_ChemfuelPlasteelTri.label>
+  <RLEMake_Cloth.description>Process biofuel to synthesize standard fabric.
+Product: Fabric x35</RLEMake_Cloth.description>
+  <RLEMake_Cloth.jobString>Synthesizing standard fabric</RLEMake_Cloth.jobString>
+  <RLEMake_Cloth.label>Manufacture standard-grade synthetic fabric ×1 batch</RLEMake_Cloth.label>
+  <RLEMake_ClothBulk.description>Process biofuel to synthesize standard fabric.
+Product: Fabric x70</RLEMake_ClothBulk.description>
+  <RLEMake_ClothBulk.jobString>Synthesizing standard fabric</RLEMake_ClothBulk.jobString>
+  <RLEMake_ClothBulk.label>Manufacturing standard-grade synthetic fabric x2 batches</RLEMake_ClothBulk.label>
+  <RLEMake_ClothTri.description>Process biofuel to synthesize standard fabric.
+Product: Fabric x105</RLEMake_ClothTri.description>
+  <RLEMake_ClothTri.jobString>Synthesizing standard fabric</RLEMake_ClothTri.jobString>
+  <RLEMake_ClothTri.label>Manufacturing standard-grade synthetic fabric x3 batches</RLEMake_ClothTri.label>
+  <RLEMake_CollectingCeramicPowder.description>Pressurize and heat stone in an advanced metal smelter to produce ceramic powder.</RLEMake_CollectingCeramicPowder.description>
+  <RLEMake_CollectingCeramicPowder.jobString>Manufacturing Ceramic Powder</RLEMake_CollectingCeramicPowder.jobString>
+  <RLEMake_CollectingCeramicPowder.label>Manufacturing Ceramic Powder from Stone</RLEMake_CollectingCeramicPowder.label>
+  <RLEMake_CollectingResourceFromGeyserRock.description>The intermittent spring resource collector smashes collected resource chunks with a large hammer and sorts out resources from the fragments.\nProducts: Steel: 35, Plastic: 7, Gold: 4, Uranium: 6</RLEMake_CollectingResourceFromGeyserRock.description>
+  <RLEMake_CollectingResourceFromGeyserRock.jobString>Collecting resources from rock chunks</RLEMake_CollectingResourceFromGeyserRock.jobString>
+  <RLEMake_CollectingResourceFromGeyserRock.label>Smash collected resource chunks to recover resources</RLEMake_CollectingResourceFromGeyserRock.label>
+  <RLEMake_CollectingRutileblock.description>Cutting rock and extracting ilmenite (titanium ore) portion.</RLEMake_CollectingRutileblock.description>
+  <RLEMake_CollectingRutileblock.jobString>Collecting ilmenite (titanium ore)...</RLEMake_CollectingRutileblock.jobString>
+  <RLEMake_CollectingRutileblock.label>Collecting ilmenite (titanium ore) from rock</RLEMake_CollectingRutileblock.label>
+  <RLEMake_CollectingSteelFromChunk.description>Smash rock chunks with a large hammer and sort out steel from the fragments.\nProduct: Steel x10</RLEMake_CollectingSteelFromChunk.description>
+  <RLEMake_CollectingSteelFromChunk.jobString>Collecting resources from rock chunks</RLEMake_CollectingSteelFromChunk.jobString>
+  <RLEMake_CollectingSteelFromChunk.label>Collect steel from rock chunks</RLEMake_CollectingSteelFromChunk.label>
+  <RLEMake_CollectingTitaniumSlug.description>Heat Ilmenite (Titanium Ore) in a smelter to separate it into Steel and Titanium Slag.</RLEMake_CollectingTitaniumSlug.description>
+  <RLEMake_CollectingTitaniumSlug.jobString>Producing Titanium Slag</RLEMake_CollectingTitaniumSlug.jobString>
+  <RLEMake_CollectingTitaniumSlug.label>Manufacturing titanium slug from ilmenite (titanium ore)</RLEMake_CollectingTitaniumSlug.label>
+  <RLEMake_CollectingTungstenOxide.description>Refining wolframite (tungsten ore) in a high-tech smelter to purify tungsten oxide.</RLEMake_CollectingTungstenOxide.description>
+  <RLEMake_CollectingTungstenOxide.jobString>Producing wolframite</RLEMake_CollectingTungstenOxide.jobString>
+  <RLEMake_CollectingTungstenOxide.label>Tungsten oxide from wolframite (tungsten ore)</RLEMake_CollectingTungstenOxide.label>
+  <RLEMake_CollectingWolframite.description>Cutting rock and extracting wolframite (tungsten ore).</RLEMake_CollectingWolframite.description>
+  <RLEMake_CollectingWolframite.jobString>Gathering wolframite (tungsten ore)</RLEMake_CollectingWolframite.jobString>
+  <RLEMake_CollectingWolframite.label>Gathering wolframite (tungsten ore) from rocks</RLEMake_CollectingWolframite.label>
+  <RLEMake_HighCarbonResin.description>Mix carbon fibers created using some bio-liquefied fuel with stone, then bind it with bio-liquefied fuel to produce ultra-durable high-carbon concrete.
+Product: High-carbon concrete ×10</RLEMake_HighCarbonResin.description>
+  <RLEMake_HighCarbonResin.jobString>High-carbon concrete being produced</RLEMake_HighCarbonResin.jobString>
+  <RLEMake_HighCarbonResin.label>Producing high-carbon concrete ×1 batch</RLEMake_HighCarbonResin.label>
+  <RLEMake_HighCarbonResinBulk.description>We mix stone, carbon fiber partially made from bio-liquefied fuel, and bind it with bio-liquefied fuel to create incredibly durable high-carbon concrete.
+Product: High-carbon concrete ×20</RLEMake_HighCarbonResinBulk.description>
+  <RLEMake_HighCarbonResinBulk.jobString>High-carbon concrete being produced</RLEMake_HighCarbonResinBulk.jobString>
+  <RLEMake_HighCarbonResinBulk.label>Producing high-carbon concrete ×2 batches</RLEMake_HighCarbonResinBulk.label>
+  <RLEMake_HighCarbonResinTri.description>We mix stone, carbon fiber partially made from bio-liquefied fuel, and bind it with bio-liquefied fuel to create incredibly durable high-carbon concrete.
+Product: High-carbon concrete ×30</RLEMake_HighCarbonResinTri.description>
+  <RLEMake_HighCarbonResinTri.jobString>High-carbon concrete being produced</RLEMake_HighCarbonResinTri.jobString>
+  <RLEMake_HighCarbonResinTri.label>Producing high-carbon concrete ×3 batches</RLEMake_HighCarbonResinTri.label>
+  <RLEMake_HighGradeSyntheticCloth.description>Process biofuel to synthesize high-quality fabric. Some of the biofuel is diverted to produce additives, so it consumes more biofuel than when producing standard fabric.
+Product: High-grade synthetic fabric x30</RLEMake_HighGradeSyntheticCloth.description>
+  <RLEMake_HighGradeSyntheticCloth.jobString>High-grade synthetic fabric being manufactured</RLEMake_HighGradeSyntheticCloth.jobString>
+  <RLEMake_HighGradeSyntheticCloth.label>Manufacturing high-grade synthetic fabric x1 batch</RLEMake_HighGradeSyntheticCloth.label>
+  <RLEMake_HighGradeSyntheticClothBulk.description>Processing bio-liquefied fuel to synthesize high-grade fabric. Some of the bio-liquefied fuel is diverted for additive production, so it consumes more bio-liquefied fuel than when manufacturing standard fabric.
+Product: High-grade synthetic fabric ×60</RLEMake_HighGradeSyntheticClothBulk.description>
+  <RLEMake_HighGradeSyntheticClothBulk.jobString>High-grade synthetic fabric being manufactured</RLEMake_HighGradeSyntheticClothBulk.jobString>
+  <RLEMake_HighGradeSyntheticClothBulk.label>Manufacturing high-grade synthetic fabric ×2 batches</RLEMake_HighGradeSyntheticClothBulk.label>
+  <RLEMake_HighGradeSyntheticClothTri.description>Processing bio-liquefied fuel to synthesize high-grade fabric. Some of the bio-liquefied fuel is diverted for additive production, so it consumes more bio-liquefied fuel than when manufacturing standard fabric.
+Product: High-grade synthetic fabric ×90</RLEMake_HighGradeSyntheticClothTri.description>
+  <RLEMake_HighGradeSyntheticClothTri.jobString>High-grade synthetic fabric being manufactured</RLEMake_HighGradeSyntheticClothTri.jobString>
+  <RLEMake_HighGradeSyntheticClothTri.label>Manufacturing high-grade synthetic fabric ×3 batches</RLEMake_HighGradeSyntheticClothTri.label>
+  <RLEMake_Hyperweave.description>Synthesize and produce Hyperweave, an ultra-specialty fiber whose manufacturing technology is black-boxed. This method appears extremely primitive and inefficient compared to current methods... though it might not strictly be 'Hyperweave,' its performance remains unchanged, so calling it Hyperweave is acceptable.
+Product: Hyperweave ×20</RLEMake_Hyperweave.description>
+  <RLEMake_Hyperweave.jobString>Producing Hyperweave</RLEMake_Hyperweave.jobString>
+  <RLEMake_Hyperweave.label>Hyperweave production batch ×1</RLEMake_Hyperweave.label>
+  <RLEMake_HyperweaveBulk.description>Synthesize and produce Hyperweave, an ultra-specialty fiber whose manufacturing technology is black-boxed. This method appears extremely primitive and inefficient compared to current methods... though it might not strictly be 'Hyperweave,' its performance remains unchanged, so calling it Hyperweave is acceptable.
+Product: Hyperweave ×40</RLEMake_HyperweaveBulk.description>
+  <RLEMake_HyperweaveBulk.jobString>Producing Hyperweave</RLEMake_HyperweaveBulk.jobString>
+  <RLEMake_HyperweaveBulk.label>Hyperweave production batch ×2</RLEMake_HyperweaveBulk.label>
+  <RLEMake_HyperweaveTri.description>Synthesizes and manufactures Hyperweave, a hyper-special fiber with its manufacturing technology locked in a black box. This production method appears to be extremely primitive and inefficient compared to current methods... though it may not strictly be Hyperweave, the performance remains unchanged, so calling it Hyperweave is acceptable.
+Product: Hyperweave x60</RLEMake_HyperweaveTri.description>
+  <RLEMake_HyperweaveTri.jobString>Producing Hyperweave</RLEMake_HyperweaveTri.jobString>
+  <RLEMake_HyperweaveTri.label>Hyperweave production batch ×3</RLEMake_HyperweaveTri.label>
+  <RLEMake_LostChunkSlagSteel.description>Crush steel scraps down to sand grain level and scatter them on the ground for disposal. No products are obtained.\nUse this when you no longer need any more steel scraps.</RLEMake_LostChunkSlagSteel.description>
+  <RLEMake_LostChunkSlagSteel.jobString>Disposing of steel scraps</RLEMake_LostChunkSlagSteel.jobString>
+  <RLEMake_LostChunkSlagSteel.label>Dispose of steel scraps</RLEMake_LostChunkSlagSteel.label>
+  <RLEMake_LostChunkSlagSteelBulk.description>Crushes 4 scrap iron into sand-level particles and scatters them on the ground for disposal. No products are gained.\nUse this when you no longer need any more scrap iron.</RLEMake_LostChunkSlagSteelBulk.description>
+  <RLEMake_LostChunkSlagSteelBulk.jobString>Mass Scrap Disposal in Progress</RLEMake_LostChunkSlagSteelBulk.jobString>
+  <RLEMake_LostChunkSlagSteelBulk.label>Mass Scrap Disposal</RLEMake_LostChunkSlagSteelBulk.label>
+  <RLEMake_MeltyPlasteel.description>Splits the large plastic steel ingot into 325 plastic steel. Make sure you have enough storage space before splitting.</RLEMake_MeltyPlasteel.description>
+  <RLEMake_MeltyPlasteel.jobString>Splitting Large Ingot</RLEMake_MeltyPlasteel.jobString>
+  <RLEMake_MeltyPlasteel.label>Split the large plastic steel ingot</RLEMake_MeltyPlasteel.label>
+  <RLEMake_MeltySilver.description>Splits large silver ingot into 3250 silver. Make sure you have storage space before splitting.</RLEMake_MeltySilver.description>
+  <RLEMake_MeltySilver.jobString>Splitting Large Ingot</RLEMake_MeltySilver.jobString>
+  <RLEMake_MeltySilver.label>Split large silver ingot</RLEMake_MeltySilver.label>
+  <RLEMake_MeltySteel.description>Splitting Large Steel Ingot into 325 steel. Check that you have enough storage space before splitting.</RLEMake_MeltySteel.description>
+  <RLEMake_MeltySteel.jobString>Splitting Large Ingot</RLEMake_MeltySteel.jobString>
+  <RLEMake_MeltySteel.label>Splitting Large Steel Ingot</RLEMake_MeltySteel.label>
+  <RLEMake_MeltyUranium.description>Splits the large uranium ingot into 325 uranium. Make sure you have enough storage space before splitting.</RLEMake_MeltyUranium.description>
+  <RLEMake_MeltyUranium.jobString>Splitting Large Ingot</RLEMake_MeltyUranium.jobString>
+  <RLEMake_MeltyUranium.label>Split the large uranium ingot</RLEMake_MeltyUranium.label>
+  <RLEMake_MetalIngotPlasteel.description>Processes 325 plastic steel into a single ingot. Storing large amounts of metal in one unit makes storage easier.</RLEMake_MetalIngotPlasteel.description>
+  <RLEMake_MetalIngotPlasteel.jobString>Processing into Large Ingot</RLEMake_MetalIngotPlasteel.jobString>
+  <RLEMake_MetalIngotPlasteel.label>Large Plastic Steel Ingot ×1</RLEMake_MetalIngotPlasteel.label>
+  <RLEMake_MetalIngotSilver.description>Processes 3250 silver into a single ingot. Storing large amounts of metal becomes easier by consolidating them.</RLEMake_MetalIngotSilver.description>
+  <RLEMake_MetalIngotSilver.jobString>Processing into Large Ingot</RLEMake_MetalIngotSilver.jobString>
+  <RLEMake_MetalIngotSilver.label>1 Large Silver Ingot</RLEMake_MetalIngotSilver.label>
+  <RLEMake_MetalIngotSteel.description>Processing 325 steel into a single ingot. Consolidating large amounts of metal makes storage easier.</RLEMake_MetalIngotSteel.description>
+  <RLEMake_MetalIngotSteel.jobString>Processing into Large Ingot</RLEMake_MetalIngotSteel.jobString>
+  <RLEMake_MetalIngotSteel.label>Large Steel Ingot ×1</RLEMake_MetalIngotSteel.label>
+  <RLEMake_MetalIngotUranium.description>Processes 325 uranium into a single ingot. Storing large amounts of metal in one unit makes storage easier.</RLEMake_MetalIngotUranium.description>
+  <RLEMake_MetalIngotUranium.jobString>Processing into Large Ingot</RLEMake_MetalIngotUranium.jobString>
+  <RLEMake_MetalIngotUranium.label>1 Large Uranium Ingot</RLEMake_MetalIngotUranium.label>
+  <RLEMake_RawBlendedFishA.ingredients.0.filter.customSummary>Fish</RLEMake_RawBlendedFishA.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedFishA.label>Blend Fish A x10</RLEMake_RawBlendedFishA.label>
+  <RLEMake_RawBlendedFishB.ingredients.0.filter.customSummary>Fish</RLEMake_RawBlendedFishB.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedFishB.label>Blend Fish B x10</RLEMake_RawBlendedFishB.label>
+  <RLEMake_RawBlendedMeatA.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_RawBlendedMeatA.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedMeatA.label>Blend meat A×25</RLEMake_RawBlendedMeatA.label>
+  <RLEMake_RawBlendedMeatB.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_RawBlendedMeatB.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedMeatB.label>Blend meat B×25</RLEMake_RawBlendedMeatB.label>
+  <RLEMake_RawBlendedMeatC.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_RawBlendedMeatC.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedMeatC.label>Blend Meat C x 25</RLEMake_RawBlendedMeatC.label>
+  <RLEMake_RawBlendedMeatD.ingredients.0.filter.customSummary>Raw animal meat</RLEMake_RawBlendedMeatD.ingredients.0.filter.customSummary>
+  <RLEMake_RawBlendedMeatD.label>Blend Meat D x 25</RLEMake_RawBlendedMeatD.label>
+  <RLEMake_ReinforcedSyntheticResin.description>Process bio-liquefied fuel to produce reinforced synthetic resin. Some of the bio-liquefied fuel is processed into carbon fiber and mixed with the resin to increase strength.
+Product: Reinforced Synthetic Resin x32</RLEMake_ReinforcedSyntheticResin.description>
+  <RLEMake_ReinforcedSyntheticResin.jobString>Producing reinforced synthetic resin</RLEMake_ReinforcedSyntheticResin.jobString>
+  <RLEMake_ReinforcedSyntheticResin.label>Produce reinforced synthetic resin x1 batch</RLEMake_ReinforcedSyntheticResin.label>
+  <RLEMake_ReinforcedSyntheticResinBulk.description>Process bio-liquefied fuel to produce reinforced synthetic resin. Some of the bio-liquefied fuel is processed into carbon fiber and mixed with the resin to increase strength.
+Product: Reinforced Synthetic Resin x64</RLEMake_ReinforcedSyntheticResinBulk.description>
+  <RLEMake_ReinforcedSyntheticResinBulk.jobString>Producing reinforced synthetic resin</RLEMake_ReinforcedSyntheticResinBulk.jobString>
+  <RLEMake_ReinforcedSyntheticResinBulk.label>Produce reinforced synthetic resin x2 batches</RLEMake_ReinforcedSyntheticResinBulk.label>
+  <RLEMake_ReinforcedSyntheticResinTri.description>Process bio-liquefied fuel to produce reinforced synthetic resin. Some of the bio-liquefied fuel is processed into carbon fiber and mixed with the resin to increase strength.
+Product: Reinforced Synthetic Resin x96</RLEMake_ReinforcedSyntheticResinTri.description>
+  <RLEMake_ReinforcedSyntheticResinTri.jobString>Producing reinforced synthetic resin</RLEMake_ReinforcedSyntheticResinTri.jobString>
+  <RLEMake_ReinforcedSyntheticResinTri.label>Produce reinforced synthetic resin x3 batches</RLEMake_ReinforcedSyntheticResinTri.label>
+  <RLEMake_Superweave.description>Mix smokeleaf leaf fibers with bio-liquefied fuel containing powdered plastile to synthesize highly durable synthetic fabric, Super Weave.
+Product: Super Weave ×20</RLEMake_Superweave.description>
+  <RLEMake_Superweave.jobString>Super Weave in production</RLEMake_Superweave.jobString>
+  <RLEMake_Superweave.label>Manufacture Super Weave ×1 batch</RLEMake_Superweave.label>
+  <RLEMake_SuperweaveBulk.description>Mix smokeleaf leaf fibers with bio-liquefied fuel containing powdered plastile to synthesize highly durable synthetic fabric, Super Weave.
+Product: Super Weave ×40</RLEMake_SuperweaveBulk.description>
+  <RLEMake_SuperweaveBulk.jobString>Super Weave in production</RLEMake_SuperweaveBulk.jobString>
+  <RLEMake_SuperweaveBulk.label>Manufacture Super Weave ×2 batches</RLEMake_SuperweaveBulk.label>
+  <RLEMake_SuperweaveTri.description>Mix smokeleaf fiber into biofuel with added plastite powder to synthesize a highly durable synthetic fabric called Superweave.
+Product: Superweave ×60</RLEMake_SuperweaveTri.description>
+  <RLEMake_SuperweaveTri.jobString>Super Weave in production</RLEMake_SuperweaveTri.jobString>
+  <RLEMake_SuperweaveTri.label>Superweave production batch ×3</RLEMake_SuperweaveTri.label>
+  <RLEMake_SyntheticResin.description>Processes bio-liquefied fuel to manufacture synthetic resin.
+Product: Synthetic resin x50</RLEMake_SyntheticResin.description>
+  <RLEMake_SyntheticResin.jobString>Manufacturing synthetic resin</RLEMake_SyntheticResin.jobString>
+  <RLEMake_SyntheticResin.label>Manufactures synthetic resin x1 batch</RLEMake_SyntheticResin.label>
+  <RLEMake_SyntheticResinBulk.description>Processes bio-liquefied fuel to manufacture synthetic resin.
+Product: Synthetic resin x100</RLEMake_SyntheticResinBulk.description>
+  <RLEMake_SyntheticResinBulk.jobString>Manufacturing synthetic resin</RLEMake_SyntheticResinBulk.jobString>
+  <RLEMake_SyntheticResinBulk.label>Manufactures synthetic resin x2 batches</RLEMake_SyntheticResinBulk.label>
+  <RLEMake_SyntheticResinTri.description>Processes bio-liquefied fuel to manufacture synthetic resin.
+Product: Synthetic resin x150</RLEMake_SyntheticResinTri.description>
+  <RLEMake_SyntheticResinTri.jobString>Manufacturing synthetic resin</RLEMake_SyntheticResinTri.jobString>
+  <RLEMake_SyntheticResinTri.label>Manufactures synthetic resin x3 batches</RLEMake_SyntheticResinTri.label>
+  <RLEMake_Synthread.description>Processing bio-liquefied fuel with plastic powder to synthesize synth-spun thread.
+Product: Synth-spun thread ×25</RLEMake_Synthread.description>
+  <RLEMake_Synthread.jobString>Synth-spun thread being manufactured</RLEMake_Synthread.jobString>
+  <RLEMake_Synthread.label>Manufacturing synth-spun thread ×1 batch</RLEMake_Synthread.label>
+  <RLEMake_SynthreadBulk.description>Process bio-liquefied fuel with plastic powder to synthesize Synthread.
+Product: Synthread ×50</RLEMake_SynthreadBulk.description>
+  <RLEMake_SynthreadBulk.jobString>Synth-spun thread being manufactured</RLEMake_SynthreadBulk.jobString>
+  <RLEMake_SynthreadBulk.label>Synthread production batch ×2</RLEMake_SynthreadBulk.label>
+  <RLEMake_SynthreadTri.description>Process bio-liquefied fuel with plastic powder to synthesize Synthread.
+Product: Synthread ×75</RLEMake_SynthreadTri.description>
+  <RLEMake_SynthreadTri.jobString>Synth-spun thread being manufactured</RLEMake_SynthreadTri.jobString>
+  <RLEMake_SynthreadTri.label>Synthread production batch ×3</RLEMake_SynthreadTri.label>
+  <RLEMake_TTAlloyIngot.description>Refine tungsten and titanium to manufacture W-Ti alloy.</RLEMake_TTAlloyIngot.description>
+  <RLEMake_TTAlloyIngot.jobString>Manufacture W-Ti alloy</RLEMake_TTAlloyIngot.jobString>
+  <RLEMake_TTAlloyIngot.label>Manufacture W-Ti alloy x10</RLEMake_TTAlloyIngot.label>
+  <RLEMake_TTAlloyIngotBulk.description>Refine tungsten and titanium to manufacture W-Ti alloy.</RLEMake_TTAlloyIngotBulk.description>
+  <RLEMake_TTAlloyIngotBulk.jobString>Manufacture W-Ti alloy</RLEMake_TTAlloyIngotBulk.jobString>
+  <RLEMake_TTAlloyIngotBulk.label>Manufacture W-Ti alloy x20</RLEMake_TTAlloyIngotBulk.label>
+  <RLEMake_TTAlloyIngotBulkL.description>Refine tungsten and titanium to manufacture W-Ti alloy.</RLEMake_TTAlloyIngotBulkL.description>
+  <RLEMake_TTAlloyIngotBulkL.jobString>Manufacture W-Ti alloy</RLEMake_TTAlloyIngotBulkL.jobString>
+  <RLEMake_TTAlloyIngotBulkL.label>Manufacture W-Ti alloy x30</RLEMake_TTAlloyIngotBulkL.label>
+  <RLEMake_TTCEAlloy.description>Refine W-Ti alloy and ceramic powder to manufacture titanium alloy ceramic composite.</RLEMake_TTCEAlloy.description>
+  <RLEMake_TTCEAlloy.jobString>Titanium alloy ceramic composite production</RLEMake_TTCEAlloy.jobString>
+  <RLEMake_TTCEAlloy.label>Titanium alloy ceramic composite x10</RLEMake_TTCEAlloy.label>
+  <RLEMake_TTCEAlloyBulk.description>Refine W-Ti alloy and ceramic powder to manufacture titanium alloy ceramic composite.</RLEMake_TTCEAlloyBulk.description>
+  <RLEMake_TTCEAlloyBulk.jobString>Titanium alloy ceramic composite production</RLEMake_TTCEAlloyBulk.jobString>
+  <RLEMake_TTCEAlloyBulk.label>Titanium alloy ceramic composite x20</RLEMake_TTCEAlloyBulk.label>
+  <RLEMake_TTCEAlloyBulkL.description>Refine W-Ti alloy and ceramic powder to manufacture titanium alloy ceramic composite.</RLEMake_TTCEAlloyBulkL.description>
+  <RLEMake_TTCEAlloyBulkL.jobString>Titanium alloy ceramic composite production</RLEMake_TTCEAlloyBulkL.jobString>
+  <RLEMake_TTCEAlloyBulkL.label>Titanium alloy ceramic composite x30</RLEMake_TTCEAlloyBulkL.label>
+  <RLEMake_TitaniumIngot.description>Refine Titanium Slag to produce Titanium.</RLEMake_TitaniumIngot.description>
+  <RLEMake_TitaniumIngot.jobString>Titanium Production</RLEMake_TitaniumIngot.jobString>
+  <RLEMake_TitaniumIngot.label>Titanium Production x10</RLEMake_TitaniumIngot.label>
+  <RLEMake_TitaniumIngotBulk.description>Refine Titanium Slag to produce Titanium.</RLEMake_TitaniumIngotBulk.description>
+  <RLEMake_TitaniumIngotBulk.jobString>Titanium Production</RLEMake_TitaniumIngotBulk.jobString>
+  <RLEMake_TitaniumIngotBulk.label>Titanium production x20</RLEMake_TitaniumIngotBulk.label>
+  <RLEMake_TitaniumIngotBulkL.description>Refine Titanium Slag to produce Titanium.</RLEMake_TitaniumIngotBulkL.description>
+  <RLEMake_TitaniumIngotBulkL.jobString>Titanium Production</RLEMake_TitaniumIngotBulkL.jobString>
+  <RLEMake_TitaniumIngotBulkL.label>Titanium production x30</RLEMake_TitaniumIngotBulkL.label>
+  <RLEMake_TungstenCarbideIngot.description>Refine tungsten and artificial coal to manufacture tungsten carbide.</RLEMake_TungstenCarbideIngot.description>
+  <RLEMake_TungstenCarbideIngot.jobString>Manufacture Tungsten Carbide</RLEMake_TungstenCarbideIngot.jobString>
+  <RLEMake_TungstenCarbideIngot.label>Manufacture Tungsten Carbide x5</RLEMake_TungstenCarbideIngot.label>
+  <RLEMake_TungstenCarbideIngotBulk.description>Refine tungsten and artificial coal to manufacture tungsten carbide.</RLEMake_TungstenCarbideIngotBulk.description>
+  <RLEMake_TungstenCarbideIngotBulk.jobString>Manufacture Tungsten Carbide</RLEMake_TungstenCarbideIngotBulk.jobString>
+  <RLEMake_TungstenCarbideIngotBulk.label>Manufacture Tungsten Carbide x10</RLEMake_TungstenCarbideIngotBulk.label>
+  <RLEMake_TungstenCarbideIngotBulkL.description>Refine tungsten and artificial coal to manufacture tungsten carbide.</RLEMake_TungstenCarbideIngotBulkL.description>
+  <RLEMake_TungstenCarbideIngotBulkL.jobString>Manufacture Tungsten Carbide</RLEMake_TungstenCarbideIngotBulkL.jobString>
+  <RLEMake_TungstenCarbideIngotBulkL.label>Manufacture tungsten carbide x15</RLEMake_TungstenCarbideIngotBulkL.label>
+  <RLEMake_TungstenIngot.description>Refine tungsten oxide to produce tungsten.</RLEMake_TungstenIngot.description>
+  <RLEMake_TungstenIngot.jobString>Manufacture Tungsten</RLEMake_TungstenIngot.jobString>
+  <RLEMake_TungstenIngot.label>Manufacture Tungsten x5</RLEMake_TungstenIngot.label>
+  <RLEMake_TungstenIngotBulk.description>Refine tungsten oxide to produce tungsten.</RLEMake_TungstenIngotBulk.description>
+  <RLEMake_TungstenIngotBulk.jobString>Manufacture Tungsten</RLEMake_TungstenIngotBulk.jobString>
+  <RLEMake_TungstenIngotBulk.label>Manufacture Tungsten x10</RLEMake_TungstenIngotBulk.label>
+  <RLEMake_TungstenIngotBulkL.description>Refine tungsten oxide to produce tungsten.</RLEMake_TungstenIngotBulkL.description>
+  <RLEMake_TungstenIngotBulkL.jobString>Manufacture Tungsten</RLEMake_TungstenIngotBulkL.jobString>
+  <RLEMake_TungstenIngotBulkL.label>Manufacture Tungsten x15</RLEMake_TungstenIngotBulkL.label>
+  <RLE_BulkButcherCorpseMechanoid.description>Scrap 3 mechs together and harvest resources.</RLE_BulkButcherCorpseMechanoid.description>
+  <RLE_BulkButcherCorpseMechanoid.jobString>Scraping mech...</RLE_BulkButcherCorpseMechanoid.jobString>
+  <RLE_BulkButcherCorpseMechanoid.label>Scrap 3 mechs together</RLE_BulkButcherCorpseMechanoid.label>
+  <RLE_ButcherCorpseFleshD.label>Harvest meat and resources from corpse x2</RLE_ButcherCorpseFleshD.label>
+  <RLE_ButcherCorpseFleshF.label>Harvest meat and resources from corpse x4</RLE_ButcherCorpseFleshF.label>
+  <RLE_ButcherCorpseFleshFi.label>Harvest meat and resources from corpse x5</RLE_ButcherCorpseFleshFi.label>
+  <RLE_ButcherCorpseFleshS.label>Harvest meat and resources from corpse x1</RLE_ButcherCorpseFleshS.label>
+  <RLE_ButcherCorpseFleshT.label>Harvest meat and resources from corpse x3</RLE_ButcherCorpseFleshT.label>
+  <RLE_CremateCorpsebulk.description>Cremate 3 corpses at once.</RLE_CremateCorpsebulk.description>
+  <RLE_CremateCorpsebulk.jobString>Incinerating</RLE_CremateCorpsebulk.jobString>
+  <RLE_CremateCorpsebulk.label>Cremate x3</RLE_CremateCorpsebulk.label>
+  <RLE_ExtractMetalFromSlagBulk.description>Using high heat and powerful electromagnets, we combine and refine three iron scraps.</RLE_ExtractMetalFromSlagBulk.description>
+  <RLE_ExtractMetalFromSlagBulk.jobString>Refining 3 iron scraps</RLE_ExtractMetalFromSlagBulk.jobString>
+  <RLE_ExtractMetalFromSlagBulk.label>Refine 3 Iron Scraps</RLE_ExtractMetalFromSlagBulk.label>
+  <RLE_ExtractMetalFromSlagULBulk.description>Using high heat and powerful electromagnets, we combine and refine 6 scrap metals.</RLE_ExtractMetalFromSlagULBulk.description>
+  <RLE_ExtractMetalFromSlagULBulk.jobString>Refining 6 scrap metals</RLE_ExtractMetalFromSlagULBulk.jobString>
+  <RLE_ExtractMetalFromSlagULBulk.label>Refine 6 scrap metals</RLE_ExtractMetalFromSlagULBulk.label>
+  <RLE_SmeltApparelBulk.description>Dismantling clothing using heat and powerful electromagnets to convert them into useful resources.</RLE_SmeltApparelBulk.description>
+  <RLE_SmeltApparelBulk.jobString>Melting clothes...</RLE_SmeltApparelBulk.jobString>
+  <RLE_SmeltApparelBulk.label>Melting down 3 clothing items together</RLE_SmeltApparelBulk.label>
+  <RLE_SmeltWeaponbulk.description>Dismantling weapons using heat and powerful electromagnets to convert them into useful resources.</RLE_SmeltWeaponbulk.description>
+  <RLE_SmeltWeaponbulk.jobString>Melting down weapons.</RLE_SmeltWeaponbulk.jobString>
+  <RLE_SmeltWeaponbulk.label>Melting down 3 weapons together</RLE_SmeltWeaponbulk.label>
+</LanguageData>

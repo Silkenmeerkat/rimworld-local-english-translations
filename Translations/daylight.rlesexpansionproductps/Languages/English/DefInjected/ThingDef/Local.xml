@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BlessDevilClothBlack.label>(Black) Blessed Devilstrand Cloth</BlessDevilClothBlack.label>
+  <BlessDevilClothBlack.stuffProps.stuffAdjective>Supreme Black</BlessDevilClothBlack.stuffProps.stuffAdjective>
+  <BlessDevilClothBlue.label>(Blue) Blessed Devilstrand Cloth</BlessDevilClothBlue.label>
+  <BlessDevilClothBlue.stuffProps.stuffAdjective>Sacred Blue</BlessDevilClothBlue.stuffProps.stuffAdjective>
+  <BlessDevilClothGreen.label>(Green) Blessed Devilstrand Cloth</BlessDevilClothGreen.label>
+  <BlessDevilClothGreen.stuffProps.stuffAdjective>Awakened Green</BlessDevilClothGreen.stuffProps.stuffAdjective>
+  <BlessDevilClothPurple.label>(Purple) Blessed Devilstrand Cloth</BlessDevilClothPurple.label>
+  <BlessDevilClothPurple.stuffProps.stuffAdjective>Abyssal Purple</BlessDevilClothPurple.stuffProps.stuffAdjective>
+  <BlessDevilClothRed.label>(Red) Blessed Devil Strand Cloth</BlessDevilClothRed.label>
+  <BlessDevilClothRed.stuffProps.stuffAdjective>Blessed Red</BlessDevilClothRed.stuffProps.stuffAdjective>
+  <BlessDevilClothWhite.label>(White) Blessed Devilstrand Cloth</BlessDevilClothWhite.label>
+  <BlessDevilClothWhite.stuffProps.stuffAdjective>Pious White</BlessDevilClothWhite.stuffProps.stuffAdjective>
+  <BlessDevilClothYellow.label>(Yellow) Blessed Devilstrand Cloth</BlessDevilClothYellow.label>
+  <BlessDevilClothYellow.stuffProps.stuffAdjective>Flash Yellow</BlessDevilClothYellow.stuffProps.stuffAdjective>
+  <RLE_AdvancedMetalSmeltingFurnaces.description>A specialized large-scale device for refining metal materials. Consumes a very large amount of power.
+Installing a dedicated upgrade facility significantly improves work speed.</RLE_AdvancedMetalSmeltingFurnaces.description>
+  <RLE_AdvancedMetalSmeltingFurnaces.label>Advanced Metal Smelter</RLE_AdvancedMetalSmeltingFurnaces.label>
+  <RLE_ArtificialCoal.description>Artificial coal manufactured from wood using a high-temperature compression device installed in an Advanced Metal Smelter. Used as a smelting material.</RLE_ArtificialCoal.description>
+  <RLE_ArtificialCoal.label>Artificial coal</RLE_ArtificialCoal.label>
+  <RLE_AutomatiHybridRockMiner.description>Surface ~ A large drill machine that automatically mines 'Basalt', which is widely distributed in relatively shallow underground layers. Because it mines at a slow speed and does not mine depths outside the insect habitat, it will not agitate insects.\nMining intervals vary slightly due to the condition of the mining location, but it mines one 'Chunk of Basalt' approximately every 3 hours.\nIt requires power to operate and needs a lot of Steel for construction.</RLE_AutomatiHybridRockMiner.description>
+  <RLE_AutomatiHybridRockMiner.label>Basalt rock auto-mining device</RLE_AutomatiHybridRockMiner.label>
+  <RLE_AutomaticDeepRockMiner.description>Large drill machine that automatically mines 'Deep Rock' distributed at very deep locations. It mines beyond the depth of insect habitats at a slow speed, so it does not disturb insects.\nMining intervals vary slightly due to terrain conditions, but it mines one chunk of 'Deep Rock' approximately every 5 hours.\nIt requires electricity to operate and needs a significant amount of steel for construction.</RLE_AutomaticDeepRockMiner.description>
+  <RLE_AutomaticDeepRockMiner.label>Deep-depth rock auto-mining device</RLE_AutomaticDeepRockMiner.label>
+  <RLE_AuxiliaryCoolingUnit.description>Upgrade Equipment. A device that dissipates heat generated within the unit during fiber synthesis to improve efficiency.
+Work speed +20%
+Maximum connectable distance: 6
+Simultaneous connectable count: 2
+Connectable equipment: Chemical Fiber Manufacturing Unit</RLE_AuxiliaryCoolingUnit.description>
+  <RLE_AuxiliaryCoolingUnit.label>Auxiliary Cooling Unit</RLE_AuxiliaryCoolingUnit.label>
+  <RLE_BadDevilCloth.description>A special fabric chemically synthesized from fibers harvested from Devilstrand.</RLE_BadDevilCloth.description>
+  <RLE_BadDevilCloth.label>Bad Devil Cloth</RLE_BadDevilCloth.label>
+  <RLE_BioConcrete.description>A durable material made with crushed stone as aggregate and bound with synthetic resin.</RLE_BioConcrete.description>
+  <RLE_BioConcrete.label>Bioconcrete</RLE_BioConcrete.label>
+  <RLE_BioConcrete.stuffProps.stuffAdjective>Concrete</RLE_BioConcrete.stuffProps.stuffAdjective>
+  <RLE_BlocksDeepStone.description>A shaped block of deep rock. Very hard with moderate toughness and durable.</RLE_BlocksDeepStone.description>
+  <RLE_BlocksDeepStone.label>Deep Rock Block</RLE_BlocksDeepStone.label>
+  <RLE_BlocksDeepStone.stuffProps.stuffAdjective>Deep Rock</RLE_BlocksDeepStone.stuffProps.stuffAdjective>
+  <RLE_BlocksHybridRock.description>A shaped block of basalt. Strength cannot be expected, but it is moderately easy to handle.</RLE_BlocksHybridRock.description>
+  <RLE_BlocksHybridRock.label>Basalt Block</RLE_BlocksHybridRock.label>
+  <RLE_BlocksHybridRock.stuffProps.stuffAdjective>Basalt</RLE_BlocksHybridRock.stuffProps.stuffAdjective>
+  <RLE_BoostSmelter.description>Refines metals from scrap iron, slag, and other materials. Extremely high electricity consumption, but enables very rapid progress in operations.</RLE_BoostSmelter.description>
+  <RLE_BoostSmelter.label>High-output blast furnace</RLE_BoostSmelter.label>
+  <RLE_CMTCleaner.description>Upgrade Facility.
+Removes floating dust around the area using an air filter, preventing component defects caused by dirt accumulation.
++20% Work Speed
+Maximum Connectable Distance: 6
+Simultaneous Connectable Count: 2
+Connectable Facilities: Component Dedicated Fabricator</RLE_CMTCleaner.description>
+  <RLE_CMTCleaner.label>Basic Cleaning Bench</RLE_CMTCleaner.label>
+  <RLE_CeramicPowder.description>Powder created by crushing stone and heating it under high pressure. Used as a material for composite substances.</RLE_CeramicPowder.description>
+  <RLE_CeramicPowder.label>Ceramic powder</RLE_CeramicPowder.label>
+  <RLE_ChemicalFiberProcessingMachine.description>Processes biofuel to manufacture chemical fibers. In addition to producing synthetic fabric usable as normal cloth from biofuel, it can also create synthetic fabrics with special properties by adding specific materials. Installing dedicated upgrade equipment significantly improves work speed.</RLE_ChemicalFiberProcessingMachine.description>
+  <RLE_ChemicalFiberProcessingMachine.label>Chemical Fiber Manufacturing Device</RLE_ChemicalFiberProcessingMachine.label>
+  <RLE_ChunkDeepStone.description>Chunk of Deep Rock. Very hard, with moderate toughness and durable.</RLE_ChunkDeepStone.description>
+  <RLE_ChunkDeepStone.label>Chunk of Deep Rock</RLE_ChunkDeepStone.label>
+  <RLE_ChunkHybridRock.description>Chunk of basalt. A rock widely distributed from the surface to relatively shallow strata. Strength cannot be expected, but it contains many artifacts and is moderately easy to handle.</RLE_ChunkHybridRock.description>
+  <RLE_ChunkHybridRock.label>Chunk of Basalt</RLE_ChunkHybridRock.label>
+  <RLE_ComponentMT.description>A specialized device for manufacturing components and advanced components. Designed with minimal functionality to save space.
+Installing a dedicated upgrade facility significantly improves work speed.</RLE_ComponentMT.description>
+  <RLE_ComponentMT.label>Component Dedicated Fabricator</RLE_ComponentMT.label>
+  <RLE_DustCollectionUnit.description>Upgrade Facility.
+Recovers dust generated during processing, making cleaning and maintenance easier.
++30% Work Speed
+Maximum Connectable Distance: 6
+Simultaneous Connectable Count: 2
+Connectable Facilities: Expanded Rock Processor</RLE_DustCollectionUnit.description>
+  <RLE_DustCollectionUnit.label>Dust Recovery Unit</RLE_DustCollectionUnit.label>
+  <RLE_ElectButcher.description>Large table that processes dead creatures into small chunks of raw meat. Equipped with a processing electric saw, it can process quickly.</RLE_ElectButcher.description>
+  <RLE_ElectButcher.label>Electric Meat Grinder</RLE_ElectButcher.label>
+  <RLE_ElectStoveBoost.description>An electric stove with a built-in food preparation counter. Features power so intense that ordinary people cannot handle it, cooking instantly. (Cooking speed 200%)</RLE_ElectStoveBoost.description>
+  <RLE_ElectStoveBoost.label>Master's Electric Stove</RLE_ElectStoveBoost.label>
+  <RLE_ElectStoveChaos.description>An electric stove with a built-in food preparation counter. Unless you are a culinary master who has reached the realm of gods, ingredients will turn to charcoal. (Cooking speed 250%)</RLE_ElectStoveChaos.description>
+  <RLE_ElectStoveChaos.label>Purgatory Electric Stove</RLE_ElectStoveChaos.label>
+  <RLE_ElectStoveDash.description>An electric stove with a built-in food preparation counter. Features extremely high heat output. (Cooking speed 150%)</RLE_ElectStoveDash.description>
+  <RLE_ElectStoveDash.label>Professional Electric Stove</RLE_ElectStoveDash.label>
+  <RLE_ElectStoveFast.description>Electric stove with a built-in food preparation counter. High heat. (Cooking speed 125%)</RLE_ElectStoveFast.description>
+  <RLE_ElectStoveFast.label>High-heat electric stove</RLE_ElectStoveFast.label>
+  <RLE_ElectStoveHalf.description>Electric stove with a built-in food preparation counter. Very low heat due to cheap construction materials. (Cooking speed 50%)</RLE_ElectStoveHalf.description>
+  <RLE_ElectStoveHalf.label>Low-heat electric stove</RLE_ElectStoveHalf.label>
+  <RLE_ElectStoveNormal.description>Electric stove with a built-in food preparation counter.</RLE_ElectStoveNormal.description>
+  <RLE_ElectStoveNormal.label>Standard electric stove</RLE_ElectStoveNormal.label>
+  <RLE_ElectStoveSlow.description>Electric stove with a built-in food preparation counter. Low heat due to steel conservation. (Cooking speed 75%)</RLE_ElectStoveSlow.description>
+  <RLE_ElectStoveSlow.label>Medium-heat electric stove</RLE_ElectStoveSlow.label>
+  <RLE_ExpandedButcherMeatMaker.description>Advanced meat processing device that harvests edible parts such as meat, organs, brains, and bone marrow. Uses a short-range accelerated electron beam laser to quickly harvest edible parts without waste.\nDisadvantages include the size of the device and power consumption.\nDue to the risk of adverse effects from electron beams, mechs cannot operate it.</RLE_ExpandedButcherMeatMaker.description>
+  <RLE_ExpandedButcherMeatMaker.label>High-Speed Meat Processing Unit</RLE_ExpandedButcherMeatMaker.label>
+  <RLE_ExpandedChemfuelRefiningReactor.description>An upgraded oil processing facility designed to efficiently produce biofuel from organic matter. It produces biofuel more efficiently than standard refineries.\nIn addition to raw meat, raw vegetables, and livestock products, it can also process corpses directly without dismembering them.\nInstalling dedicated upgrade equipment nearby significantly improves work speed.</RLE_ExpandedChemfuelRefiningReactor.description>
+  <RLE_ExpandedChemfuelRefiningReactor.label>Advanced Biofuel Refinery &amp; Reactor</RLE_ExpandedChemfuelRefiningReactor.label>
+  <RLE_ExpandedRockChunkCutter.description>A stone processing unit with expanded functions to perform rock cutting quickly. Equipped with a large, thin electric cutter for efficient rock cutting. Naturally, it can also perform most tasks done by a normal Stone Cutter.
+As an expanded function, the built-in large hammer can crush rock masses and sort out only the necessary substances contained within the stone.
+Installing a dedicated upgrade equipment significantly improves work speed.</RLE_ExpandedRockChunkCutter.description>
+  <RLE_ExpandedRockChunkCutter.label>Expanded Rock Processing Machine</RLE_ExpandedRockChunkCutter.label>
+  <RLE_ExpansiontypeRefiningUnit.description>Upgrade Facility. A device that assists the reaction of the Advanced Metal Smelter.
+Work Speed +60%
+Maximum Connectable Distance: 6
+Simultaneous Connectable Count: 2
+Connectable Facilities: Advanced Metal Smelter</RLE_ExpansiontypeRefiningUnit.description>
+  <RLE_ExpansiontypeRefiningUnit.label>Expansion Refiner</RLE_ExpansiontypeRefiningUnit.label>
+  <RLE_FloorarrowEntranceAllow.description>Floor decoration indicating the direction of the entrance.</RLE_FloorarrowEntranceAllow.description>
+  <RLE_FloorarrowEntranceAllow.label>Directional indicator "Entrance"</RLE_FloorarrowEntranceAllow.label>
+  <RLE_FloorarrowExitAllow.description>Floor decoration indicating the direction of the exit.</RLE_FloorarrowExitAllow.description>
+  <RLE_FloorarrowExitAllow.label>Directional indicator "Exit"</RLE_FloorarrowExitAllow.label>
+  <RLE_FloorpainLaboratoryRE.description>This indicates a floor decoration for an area where one studies existing technology, analyzes advanced technology, conducts research and development of pharmaceuticals, designs equipment, and performs other tasks to advance the colony's technology.</RLE_FloorpainLaboratoryRE.description>
+  <RLE_FloorpainLaboratoryRE.label>Floor decoration "Laboratory" (reversed)</RLE_FloorpainLaboratoryRE.label>
+  <RLE_FloorpaintArmoury.description>This floor decoration indicates that the area ahead is a storage location for weapons, both melee and ranged.</RLE_FloorpaintArmoury.description>
+  <RLE_FloorpaintArmoury.label>Floor decoration "Armory"</RLE_FloorpaintArmoury.label>
+  <RLE_FloorpaintArmouryRE.description>This floor decoration indicates that the area ahead is a storage location for weapons, both melee and ranged.</RLE_FloorpaintArmouryRE.description>
+  <RLE_FloorpaintArmouryRE.label>Floor decoration "Armory" (reversed)</RLE_FloorpaintArmouryRE.label>
+  <RLE_FloorpaintArtilleryShell.description>Floor decoration indicating that the area ahead is where mortar ammunition, marked with caution, is stored.</RLE_FloorpaintArtilleryShell.description>
+  <RLE_FloorpaintArtilleryShell.label>Floor decoration "Mortar Ammo Storage"</RLE_FloorpaintArtilleryShell.label>
+  <RLE_FloorpaintArtilleryShellRE.description>Floor decoration indicating that the area ahead is where mortar ammunition, marked with caution, is stored.</RLE_FloorpaintArtilleryShellRE.description>
+  <RLE_FloorpaintArtilleryShellRE.label>Floor decoration "Mortar Ammo Storage" (reverse orientation)</RLE_FloorpaintArtilleryShellRE.label>
+  <RLE_FloorpaintBathroom.description>Floor decoration indicating the area ahead is for washing your body (bath, hot spring, shower, etc.).</RLE_FloorpaintBathroom.description>
+  <RLE_FloorpaintBathroom.label>Floor decoration "Bathroom"</RLE_FloorpaintBathroom.label>
+  <RLE_FloorpaintBathroomRE.description>Floor decoration indicating the area ahead is for washing your body (bath, hot spring, shower, etc.).</RLE_FloorpaintBathroomRE.description>
+  <RLE_FloorpaintBathroomRE.label>Floor decoration "Bathroom" (reverse orientation)</RLE_FloorpaintBathroomRE.label>
+  <RLE_FloorpaintBedroom.description>This indicates a floor decoration for an area that serves as a bedroom for colonists.</RLE_FloorpaintBedroom.description>
+  <RLE_FloorpaintBedroom.label>Floor decoration "Bedroom"</RLE_FloorpaintBedroom.label>
+  <RLE_FloorpaintBedroomRE.description>This indicates a floor decoration for an area that serves as a bedroom for colonists.</RLE_FloorpaintBedroomRE.description>
+  <RLE_FloorpaintBedroomRE.label>Floor decoration "Bedroom" (reversed)</RLE_FloorpaintBedroomRE.label>
+  <RLE_FloorpaintBoilerRoom.description>Floor decoration indicating that the area ahead is a place where heating devices such as boilers are installed.</RLE_FloorpaintBoilerRoom.description>
+  <RLE_FloorpaintBoilerRoom.label>"Boiler Facility" floor decoration</RLE_FloorpaintBoilerRoom.label>
+  <RLE_FloorpaintBoilerRoomRE.description>Floor decoration indicating that the area ahead is a place where heating devices such as boilers are installed.</RLE_FloorpaintBoilerRoomRE.description>
+  <RLE_FloorpaintBoilerRoomRE.label>Floor decoration "Boiler Room" (reverse)</RLE_FloorpaintBoilerRoomRE.label>
+  <RLE_FloorpaintButchery.description>Floor decoration indicating the area ahead is for butchering prey into meat products.</RLE_FloorpaintButchery.description>
+  <RLE_FloorpaintButchery.label>Floor decoration "Meat Processing Facility"</RLE_FloorpaintButchery.label>
+  <RLE_FloorpaintButcheryRE.description>Floor decoration indicating the area ahead is for butchering prey into meat products.</RLE_FloorpaintButcheryRE.description>
+  <RLE_FloorpaintButcheryRE.label>Floor decoration "Meat Processing Facility" (reverse orientation)</RLE_FloorpaintButcheryRE.label>
+  <RLE_FloorpaintCaution.description>This floor decoration indicates that the area ahead is a place requiring attention to the surroundings.</RLE_FloorpaintCaution.description>
+  <RLE_FloorpaintCaution.label>Floor decoration "Caution"</RLE_FloorpaintCaution.label>
+  <RLE_FloorpaintCautionRE.description>This floor decoration indicates that the area ahead is a place requiring attention to the surroundings.</RLE_FloorpaintCautionRE.description>
+  <RLE_FloorpaintCautionRE.label>Floor decoration "Caution" (reversed)</RLE_FloorpaintCautionRE.label>
+  <RLE_FloorpaintCleanRoom.description>Floor decoration indicating that the area ahead is a clean room where dust, debris, dirt, and bacteria are not allowed to enter.</RLE_FloorpaintCleanRoom.description>
+  <RLE_FloorpaintCleanRoom.label>Floor decoration "Clean Room"</RLE_FloorpaintCleanRoom.label>
+  <RLE_FloorpaintCleanRoomRE.description>Floor decoration indicating that the area ahead is a clean room where dust, debris, dirt, and bacteria are not allowed to enter.</RLE_FloorpaintCleanRoomRE.description>
+  <RLE_FloorpaintCleanRoomRE.label>Floor decoration "Clean Room" (reverse orientation)</RLE_FloorpaintCleanRoomRE.label>
+  <RLE_FloorpaintColdStorage.description>This floor decoration indicates that the area ahead is a storage location for items that would spoil at room temperature.</RLE_FloorpaintColdStorage.description>
+  <RLE_FloorpaintColdStorage.label>Floor decoration "Cooler"</RLE_FloorpaintColdStorage.label>
+  <RLE_FloorpaintColdStorageRE.description>This floor decoration indicates that the area ahead is a storage location for items that would spoil at room temperature.</RLE_FloorpaintColdStorageRE.description>
+  <RLE_FloorpaintColdStorageRE.label>Floor decoration "Cold Storage" (reverse orientation)</RLE_FloorpaintColdStorageRE.label>
+  <RLE_FloorpaintCrematory.description>A floor decoration indicating that this is where corpses are cremated.</RLE_FloorpaintCrematory.description>
+  <RLE_FloorpaintCrematory.label>Floor decoration "Crematorium"</RLE_FloorpaintCrematory.label>
+  <RLE_FloorpaintCrematoryRE.description>A floor decoration indicating that this is where corpses are cremated.</RLE_FloorpaintCrematoryRE.description>
+  <RLE_FloorpaintCrematoryRE.label>Floor decoration "Crematorium" (reverse orientation)</RLE_FloorpaintCrematoryRE.label>
+  <RLE_FloorpaintDanger.description>This floor decoration indicates that the area ahead is a dangerous location.</RLE_FloorpaintDanger.description>
+  <RLE_FloorpaintDanger.label>Floor decoration "Danger"</RLE_FloorpaintDanger.label>
+  <RLE_FloorpaintDangerRE.description>This floor decoration indicates that the area ahead is a dangerous location.</RLE_FloorpaintDangerRE.description>
+  <RLE_FloorpaintDangerRE.label>Floor decoration "Danger" (reversed)</RLE_FloorpaintDangerRE.label>
+  <RLE_FloorpaintDiningRoom.description>This indicates a floor area where meals are eaten and conversations with family or friends take place.</RLE_FloorpaintDiningRoom.description>
+  <RLE_FloorpaintDiningRoom.label>Floor decoration "Dining Room"</RLE_FloorpaintDiningRoom.label>
+  <RLE_FloorpaintDiningRoomRE.description>This indicates a floor area where meals are eaten and conversations with family or friends take place.</RLE_FloorpaintDiningRoomRE.description>
+  <RLE_FloorpaintDiningRoomRE.label>Floor decoration "Dining Room" (Reverse)</RLE_FloorpaintDiningRoomRE.label>
+  <RLE_FloorpaintDispenseSlot.description>A floor decoration indicating where finished products or carried objects are dispensed.</RLE_FloorpaintDispenseSlot.description>
+  <RLE_FloorpaintDispenseSlot.label>Floor decoration "Output"</RLE_FloorpaintDispenseSlot.label>
+  <RLE_FloorpaintDispenseSlotRE.description>A floor decoration indicating where finished products or carried objects are dispensed.</RLE_FloorpaintDispenseSlotRE.description>
+  <RLE_FloorpaintDispenseSlotRE.label>Floor decoration "Output" (reverse)</RLE_FloorpaintDispenseSlotRE.label>
+  <RLE_FloorpaintEvacuationSite.description>Floor decoration indicating a safe zone ahead.</RLE_FloorpaintEvacuationSite.description>
+  <RLE_FloorpaintEvacuationSite.label>"Safe Zone" floor decoration</RLE_FloorpaintEvacuationSite.label>
+  <RLE_FloorpaintEvacuationSiteRE.description>Floor decoration indicating a safe zone ahead.</RLE_FloorpaintEvacuationSiteRE.description>
+  <RLE_FloorpaintEvacuationSiteRE.label>"Safe Zone" floor decoration (reversed)</RLE_FloorpaintEvacuationSiteRE.label>
+  <RLE_FloorpaintExecutionArea.description>A floor decoration indicating that this is the place where an inmate's life will be taken by a colonist.</RLE_FloorpaintExecutionArea.description>
+  <RLE_FloorpaintExecutionArea.label>Floor decoration "Execution Ground"</RLE_FloorpaintExecutionArea.label>
+  <RLE_FloorpaintExecutionAreaRE.description>A floor decoration indicating that this is the place where an inmate's life will be taken by a colonist.</RLE_FloorpaintExecutionAreaRE.description>
+  <RLE_FloorpaintExecutionAreaRE.label>Floor decoration "Execution Ground" (reversed)</RLE_FloorpaintExecutionAreaRE.label>
+  <RLE_FloorpaintExit.description>Floor decoration indicating an exit.</RLE_FloorpaintExit.description>
+  <RLE_FloorpaintExit.label>Floor decoration "Exit"</RLE_FloorpaintExit.label>
+  <RLE_FloorpaintExitRE.description>Floor decoration indicating an exit.</RLE_FloorpaintExitRE.description>
+  <RLE_FloorpaintExitRE.label>"Exit" floor decoration (reversed)</RLE_FloorpaintExitRE.label>
+  <RLE_FloorpaintFactory.description>Floor decoration indicating the area ahead is a factory equipped with large manufacturing equipment.</RLE_FloorpaintFactory.description>
+  <RLE_FloorpaintFactory.label>Floor decoration "Factory"</RLE_FloorpaintFactory.label>
+  <RLE_FloorpaintFactoryRE.description>Floor decoration indicating the area ahead is a factory equipped with large manufacturing equipment.</RLE_FloorpaintFactoryRE.description>
+  <RLE_FloorpaintFactoryRE.label>Floor decoration "Factory" (reverse orientation)</RLE_FloorpaintFactoryRE.label>
+  <RLE_FloorpaintFarm.description>The following is a floor decoration indicating a farm.</RLE_FloorpaintFarm.description>
+  <RLE_FloorpaintFarm.label>Floor decoration "Farm"</RLE_FloorpaintFarm.label>
+  <RLE_FloorpaintFarmRE.description>The following is a floor decoration indicating a farm.</RLE_FloorpaintFarmRE.description>
+  <RLE_FloorpaintFarmRE.label>Floor decoration "Farm" (reverse direction)</RLE_FloorpaintFarmRE.label>
+  <RLE_FloorpaintFoodStorage.description>This area marks a location for storing food storage.</RLE_FloorpaintFoodStorage.description>
+  <RLE_FloorpaintFoodStorage.label>Floor decoration "Food Storage"</RLE_FloorpaintFoodStorage.label>
+  <RLE_FloorpaintFoodStorageRE.description>This area marks a location for storing food storage.</RLE_FloorpaintFoodStorageRE.description>
+  <RLE_FloorpaintFoodStorageRE.label>Floor decoration "Food Storage" (reverse orientation)</RLE_FloorpaintFoodStorageRE.label>
+  <RLE_FloorpaintGuestRoom.description>This indicates a floor decoration for an area designated for guests.</RLE_FloorpaintGuestRoom.description>
+  <RLE_FloorpaintGuestRoom.label>Floor decoration "Guest Room"</RLE_FloorpaintGuestRoom.label>
+  <RLE_FloorpaintGuestRoomRE.description>This indicates a floor decoration for an area designated for guests.</RLE_FloorpaintGuestRoomRE.description>
+  <RLE_FloorpaintGuestRoomRE.label>Floor decoration "Guest Room" (reverse direction)</RLE_FloorpaintGuestRoomRE.label>
+  <RLE_FloorpaintInterception.description>Floor decoration indicating that the area ahead is where you will meet attackers and deliver a crushing blow.</RLE_FloorpaintInterception.description>
+  <RLE_FloorpaintInterception.label>Floor decoration "Engagement Point"</RLE_FloorpaintInterception.label>
+  <RLE_FloorpaintInterceptionRE.description>Floor decoration indicating that the area ahead is where you will meet attackers and deliver a crushing blow.</RLE_FloorpaintInterceptionRE.description>
+  <RLE_FloorpaintInterceptionRE.label>Floor decoration "Counterattack Point" (reverse orientation)</RLE_FloorpaintInterceptionRE.label>
+  <RLE_FloorpaintKeepOut.description>Floor decoration indicating that the area ahead is a no-entry zone.</RLE_FloorpaintKeepOut.description>
+  <RLE_FloorpaintKeepOut.label>Floor decoration "No Entry"</RLE_FloorpaintKeepOut.label>
+  <RLE_FloorpaintKeepOutRE.description>Floor decoration indicating that the area ahead is a no-entry zone.</RLE_FloorpaintKeepOutRE.description>
+  <RLE_FloorpaintKeepOutRE.label>Floor decoration "No Entry" (reversed)</RLE_FloorpaintKeepOutRE.label>
+  <RLE_FloorpaintKillzone.description>Floor decoration indicating that the area ahead is an engagement/defense zone where enemies are eliminated.</RLE_FloorpaintKillzone.description>
+  <RLE_FloorpaintKillzone.label>Floor decoration "Kill Zone"</RLE_FloorpaintKillzone.label>
+  <RLE_FloorpaintKillzoneRE.description>Floor decoration indicating that the area ahead is an engagement/defense zone where enemies are eliminated.</RLE_FloorpaintKillzoneRE.description>
+  <RLE_FloorpaintKillzoneRE.label>Floor decoration "Kill Zone" (reversed)</RLE_FloorpaintKillzoneRE.label>
+  <RLE_FloorpaintKitchen.description>Floor decoration indicating the area ahead is for food preparation.</RLE_FloorpaintKitchen.description>
+  <RLE_FloorpaintKitchen.label>Floor decoration "Kitchen"</RLE_FloorpaintKitchen.label>
+  <RLE_FloorpaintKitchenRE.description>Floor decoration indicating the area ahead is for food preparation.</RLE_FloorpaintKitchenRE.description>
+  <RLE_FloorpaintKitchenRE.label>Floor decoration "Kitchen" (reverse orientation)</RLE_FloorpaintKitchenRE.label>
+  <RLE_FloorpaintLaboratory.description>This indicates a floor decoration for an area where one studies existing technology, analyzes advanced technology, conducts research and development of pharmaceuticals, designs equipment, and performs other tasks to advance the colony's technology.</RLE_FloorpaintLaboratory.description>
+  <RLE_FloorpaintLaboratory.label>Floor decoration "Laboratory"</RLE_FloorpaintLaboratory.label>
+  <RLE_FloorpaintMedical.description>Floor decoration indicating a place for treating injuries or illnesses.</RLE_FloorpaintMedical.description>
+  <RLE_FloorpaintMedical.label>"Medical Room" floor decoration</RLE_FloorpaintMedical.label>
+  <RLE_FloorpaintMedicalRE.description>Floor decoration indicating a place for treating injuries or illnesses.</RLE_FloorpaintMedicalRE.description>
+  <RLE_FloorpaintMedicalRE.label>"Medical Room" floor decoration (reversed)</RLE_FloorpaintMedicalRE.label>
+  <RLE_FloorpaintMeditation.description>This indicates a floor decoration for a place where one forgets everything and becomes focused, or a place to concentrate on a single thing.</RLE_FloorpaintMeditation.description>
+  <RLE_FloorpaintMeditation.label>Floor decoration "Meditation Room"</RLE_FloorpaintMeditation.label>
+  <RLE_FloorpaintMeditationRE.description>This indicates a floor decoration for a place where one forgets everything and becomes focused, or a place to concentrate on a single thing.</RLE_FloorpaintMeditationRE.description>
+  <RLE_FloorpaintMeditationRE.label>Floor decoration "Meditation Room" (reverse orientation)</RLE_FloorpaintMeditationRE.label>
+  <RLE_FloorpaintMorgue.description>A floor decoration indicating that this is a place to temporarily store corpses before processing.</RLE_FloorpaintMorgue.description>
+  <RLE_FloorpaintMorgue.label>Floor decoration "Morgue"</RLE_FloorpaintMorgue.label>
+  <RLE_FloorpaintMorgueRE.description>A floor decoration indicating that this is a place to temporarily store corpses before processing.</RLE_FloorpaintMorgueRE.description>
+  <RLE_FloorpaintMorgueRE.label>Floor decoration "Morgue" (reversed)</RLE_FloorpaintMorgueRE.label>
+  <RLE_FloorpaintMortarBase.description>Floor decoration indicating that the area ahead is where a mortar is installed to attack threats.</RLE_FloorpaintMortarBase.description>
+  <RLE_FloorpaintMortarBase.label>Floor decoration "Mortar Platform"</RLE_FloorpaintMortarBase.label>
+  <RLE_FloorpaintMortarBaseRE.description>Floor decoration indicating that the area ahead is where a mortar is installed to attack threats.</RLE_FloorpaintMortarBaseRE.description>
+  <RLE_FloorpaintMortarBaseRE.label>Floor decoration "Mortar Platform" (reverse orientation)</RLE_FloorpaintMortarBaseRE.label>
+  <RLE_FloorpaintNuclear.description>This floor decoration indicates that nuclear-related equipment is installed ahead, or that a location for securely storing nuclear weapons.</RLE_FloorpaintNuclear.description>
+  <RLE_FloorpaintNuclear.label>Floor decoration "Nuclear Facility"</RLE_FloorpaintNuclear.label>
+  <RLE_FloorpaintNuclearRE.description>This floor decoration indicates that nuclear-related equipment is installed ahead, or that a location for securely storing nuclear weapons.</RLE_FloorpaintNuclearRE.description>
+  <RLE_FloorpaintNuclearRE.label>Floor decoration "Nuclear Facility" (reverse orientation)</RLE_FloorpaintNuclearRE.label>
+  <RLE_FloorpaintOilEefinery.description>Floor decoration indicating the area ahead is for fuel refining and extraction operations.</RLE_FloorpaintOilEefinery.description>
+  <RLE_FloorpaintOilEefinery.label>Floor decoration "Refinery"</RLE_FloorpaintOilEefinery.label>
+  <RLE_FloorpaintOilEefineryRE.description>Floor decoration indicating the area ahead is for fuel refining and extraction operations.</RLE_FloorpaintOilEefineryRE.description>
+  <RLE_FloorpaintOilEefineryRE.label>Floor decoration "Refinery" (reverse orientation)</RLE_FloorpaintOilEefineryRE.label>
+  <RLE_FloorpaintOperationRoom.description>Floor decoration indicating the area ahead is for communication or remote operation of machinery.</RLE_FloorpaintOperationRoom.description>
+  <RLE_FloorpaintOperationRoom.label>Floor decoration "Comms Room"</RLE_FloorpaintOperationRoom.label>
+  <RLE_FloorpaintOperationRoomRE.description>Floor decoration indicating the area ahead is for communication or remote operation of machinery.</RLE_FloorpaintOperationRoomRE.description>
+  <RLE_FloorpaintOperationRoomRE.label>Floor decoration "Comms Room" (reverse orientation)</RLE_FloorpaintOperationRoomRE.label>
+  <RLE_FloorpaintPedroom.description>The floor decoration ahead indicates this is the pets' bedroom.</RLE_FloorpaintPedroom.description>
+  <RLE_FloorpaintPedroom.label>Floor decoration "Pet's Bedroom"</RLE_FloorpaintPedroom.label>
+  <RLE_FloorpaintPedroomRE.description>The floor decoration ahead indicates this is the pets' bedroom.</RLE_FloorpaintPedroomRE.description>
+  <RLE_FloorpaintPedroomRE.label>Floor decoration "Pet's Bedroom" (reverse direction)</RLE_FloorpaintPedroomRE.label>
+  <RLE_FloorpaintPowerPlant.description>This floor decoration indicates that power generation equipment is located ahead.</RLE_FloorpaintPowerPlant.description>
+  <RLE_FloorpaintPowerPlant.label>Floor decoration "Power Plant"</RLE_FloorpaintPowerPlant.label>
+  <RLE_FloorpaintPowerPlantRE.description>This floor decoration indicates that power generation equipment is located ahead.</RLE_FloorpaintPowerPlantRE.description>
+  <RLE_FloorpaintPowerPlantRE.label>Floor decoration "Power Plant" (reverse orientation)</RLE_FloorpaintPowerPlantRE.label>
+  <RLE_FloorpaintPrison.description>Floor decoration indicating that the area ahead is where prisoners are held.</RLE_FloorpaintPrison.description>
+  <RLE_FloorpaintPrison.label>Floor decoration "Prison"</RLE_FloorpaintPrison.label>
+  <RLE_FloorpaintPrisonRE.description>Floor decoration indicating that the area ahead is where prisoners are held.</RLE_FloorpaintPrisonRE.description>
+  <RLE_FloorpaintPrisonRE.label>Floor decoration "Prison" (reverse orientation)</RLE_FloorpaintPrisonRE.label>
+  <RLE_FloorpaintQuarry.description>Floor decoration indicating that the area ahead is a place to mine rock masses or resources.</RLE_FloorpaintQuarry.description>
+  <RLE_FloorpaintQuarry.label>Floor decoration "Quarry"</RLE_FloorpaintQuarry.label>
+  <RLE_FloorpaintQuarryRE.description>Floor decoration indicating that the area ahead is a place to mine rock masses or resources</RLE_FloorpaintQuarryRE.description>
+  <RLE_FloorpaintQuarryRE.label>"Quarry" floor decoration (reverse orientation)</RLE_FloorpaintQuarryRE.label>
+  <RLE_FloorpaintRanch.description>The following is a floor decoration indicating livestock housing.</RLE_FloorpaintRanch.description>
+  <RLE_FloorpaintRanch.label>Floor decoration "Ranch"</RLE_FloorpaintRanch.label>
+  <RLE_FloorpaintRanchRE.description>The following is a floor decoration indicating livestock housing.</RLE_FloorpaintRanchRE.description>
+  <RLE_FloorpaintRanchRE.label>Floor decoration "Ranch" (reverse direction)</RLE_FloorpaintRanchRE.label>
+  <RLE_FloorpaintRecreation.description>This indicates a floor area where one can forget work for a while and enjoy entertainment such as games or stargazing.</RLE_FloorpaintRecreation.description>
+  <RLE_FloorpaintRecreation.label>Floor decoration "Recreation Room"</RLE_FloorpaintRecreation.label>
+  <RLE_FloorpaintRecreationRE.description>This indicates a floor area where one can forget work for a while and enjoy entertainment such as games or stargazing.</RLE_FloorpaintRecreationRE.description>
+  <RLE_FloorpaintRecreationRE.label>Floor decoration "Recreation Room" (reverse orientation)</RLE_FloorpaintRecreationRE.label>
+  <RLE_FloorpaintRestaurant.description>This indicates a floor area where meals are provided to colonists and visitors.</RLE_FloorpaintRestaurant.description>
+  <RLE_FloorpaintRestaurant.label>Floor decoration "Restaurant"</RLE_FloorpaintRestaurant.label>
+  <RLE_FloorpaintRestaurantRE.description>This indicates a floor area where meals are provided to colonists and visitors.</RLE_FloorpaintRestaurantRE.description>
+  <RLE_FloorpaintRestaurantRE.label>Floor decoration "Restaurant" (Reverse)</RLE_FloorpaintRestaurantRE.label>
+  <RLE_FloorpaintRestroom.description>Floor decoration indicating the area ahead is a toilet, restroom, or small break area.</RLE_FloorpaintRestroom.description>
+  <RLE_FloorpaintRestroom.label>Floor decoration "Restroom"</RLE_FloorpaintRestroom.label>
+  <RLE_FloorpaintRestroomRE.description>Floor decoration indicating the area ahead is a toilet, restroom, or small break area.</RLE_FloorpaintRestroomRE.description>
+  <RLE_FloorpaintRestroomRE.label>Floor decoration "Restroom" (reverse orientation)</RLE_FloorpaintRestroomRE.label>
+  <RLE_FloorpaintServerRoom.description>This floor decoration indicates that the area ahead is a location where advanced computing devices and data storage equipment are concentrated.</RLE_FloorpaintServerRoom.description>
+  <RLE_FloorpaintServerRoom.label>Floor decoration "Server Room"</RLE_FloorpaintServerRoom.label>
+  <RLE_FloorpaintServerRoomRE.description>This floor decoration indicates that the area ahead is a location where advanced computing devices and data storage equipment are concentrated.</RLE_FloorpaintServerRoomRE.description>
+  <RLE_FloorpaintServerRoomRE.label>Floor decoration "Server Room" (reversed)</RLE_FloorpaintServerRoomRE.label>
+  <RLE_FloorpaintSlave.description>Floor decoration indicating that the area ahead is where slaves reside and perform labor.</RLE_FloorpaintSlave.description>
+  <RLE_FloorpaintSlave.label>Floor decoration "Slave"</RLE_FloorpaintSlave.label>
+  <RLE_FloorpaintSlaveRE.description>Floor decoration indicating that the area ahead is where slaves reside and perform labor.</RLE_FloorpaintSlaveRE.description>
+  <RLE_FloorpaintSlaveRE.label>Floor decoration "Slave" (reverse orientation)</RLE_FloorpaintSlaveRE.label>
+  <RLE_FloorpaintSpaceship.description>Floor decoration indicating the area ahead is for building ships or a place to wait/store them.</RLE_FloorpaintSpaceship.description>
+  <RLE_FloorpaintSpaceship.label>Floor decoration "Spaceship"</RLE_FloorpaintSpaceship.label>
+  <RLE_FloorpaintSpaceshipRE.description>Floor decoration indicating the area ahead is for building ships or a place to wait/store them.</RLE_FloorpaintSpaceshipRE.description>
+  <RLE_FloorpaintSpaceshipRE.label>Floor decoration "Ship" (reverse orientation)</RLE_FloorpaintSpaceshipRE.label>
+  <RLE_FloorpaintStorage.description>Floor decoration indicating the area ahead is for storing various items.</RLE_FloorpaintStorage.description>
+  <RLE_FloorpaintStorage.label>Floor decoration "Storage"</RLE_FloorpaintStorage.label>
+  <RLE_FloorpaintStorageRE.description>Floor decoration indicating the area ahead is for storing various items.</RLE_FloorpaintStorageRE.description>
+  <RLE_FloorpaintStorageRE.label>Floor decoration "Storage" (reverse orientation)</RLE_FloorpaintStorageRE.label>
+  <RLE_FloorpaintThrowingSlot.description>A floor decoration indicating where materials for manufactured items or carried objects are input.</RLE_FloorpaintThrowingSlot.description>
+  <RLE_FloorpaintThrowingSlot.label>Floor decoration "Input"</RLE_FloorpaintThrowingSlot.label>
+  <RLE_FloorpaintThrowingSlotRE.description>A floor decoration indicating where materials for manufactured items or carried objects are input.</RLE_FloorpaintThrowingSlotRE.description>
+  <RLE_FloorpaintThrowingSlotRE.label>Floor decoration "Input" (reverse)</RLE_FloorpaintThrowingSlotRE.label>
+  <RLE_FloorpaintVault.description>This floor decoration indicates that the area ahead is a secure storage location for precious metals or important items.</RLE_FloorpaintVault.description>
+  <RLE_FloorpaintVault.label>Floor decoration "Safe"</RLE_FloorpaintVault.label>
+  <RLE_FloorpaintVaultRE.description>This floor decoration indicates that the area ahead is a secure storage location for precious metals or important items.</RLE_FloorpaintVaultRE.description>
+  <RLE_FloorpaintVaultRE.label>Floor decoration "Safe" (reversed)</RLE_FloorpaintVaultRE.label>
+  <RLE_FloorpaintWaste.description>The floor decoration ahead indicates a place for storing waste in bulk.</RLE_FloorpaintWaste.description>
+  <RLE_FloorpaintWaste.label>Floor decoration "Waste Storage"</RLE_FloorpaintWaste.label>
+  <RLE_FloorpaintWasteRE.description>A floor decoration indicating that this is where corpses are cremated.</RLE_FloorpaintWasteRE.description>
+  <RLE_FloorpaintWasteRE.label>Floor decoration "Waste Storage" (reverse orientation)</RLE_FloorpaintWasteRE.label>
+  <RLE_FloorpaintWatersource.description>Floor decoration indicating that the area ahead is a place to collect water sources or domestic water.</RLE_FloorpaintWatersource.description>
+  <RLE_FloorpaintWatersource.label>"Water Source" floor decoration</RLE_FloorpaintWatersource.label>
+  <RLE_FloorpaintWatersourceRE.description>Floor decoration indicating that the area ahead is a place to collect water sources or domestic water.</RLE_FloorpaintWatersourceRE.description>
+  <RLE_FloorpaintWatersourceRE.label>"Water Source" floor decoration (reverse orientation)</RLE_FloorpaintWatersourceRE.label>
+  <RLE_FloorpaintWmd.description>This area marks a location for storing dangerous weapons or projectiles with immense destructive power.</RLE_FloorpaintWmd.description>
+  <RLE_FloorpaintWmd.label>Floor decoration "Destructive Weaponry"</RLE_FloorpaintWmd.label>
+  <RLE_FloorpaintWmdRE.description>This area marks a location for storing dangerous weapons or projectiles with immense destructive power.</RLE_FloorpaintWmdRE.description>
+  <RLE_FloorpaintWmdRE.label>Floor decoration "Destructive Weaponry" (reverse orientation)</RLE_FloorpaintWmdRE.label>
+  <RLE_FloorpaintWorkshop.description>The floor decoration ahead indicates this is a place for machining and crafting.</RLE_FloorpaintWorkshop.description>
+  <RLE_FloorpaintWorkshop.label>Floor decoration "Workshop"</RLE_FloorpaintWorkshop.label>
+  <RLE_FloorpaintWorkshopRE.description>The floor decoration ahead indicates this is a place for machining and crafting.</RLE_FloorpaintWorkshopRE.description>
+  <RLE_FloorpaintWorkshopRE.label>Floor decoration "Workshop" (reverse direction)</RLE_FloorpaintWorkshopRE.label>
+  <RLE_Floorpaintgraveyard.description>The floor decoration ahead indicates a place to honor the dead.</RLE_Floorpaintgraveyard.description>
+  <RLE_Floorpaintgraveyard.label>Floor decoration "Graveyard"</RLE_Floorpaintgraveyard.label>
+  <RLE_FloorpaintgraveyardRE.description>The floor decoration ahead indicates a place to honor the dead.</RLE_FloorpaintgraveyardRE.description>
+  <RLE_FloorpaintgraveyardRE.label>Floor decoration "Graveyard" (reverse orientation)</RLE_FloorpaintgraveyardRE.label>
+  <RLE_Floorpaintreception.description>This indicates a floor decoration for a place to receive envoys or visitors from other factions.</RLE_Floorpaintreception.description>
+  <RLE_Floorpaintreception.label>Floor decoration "Lounge"</RLE_Floorpaintreception.label>
+  <RLE_FloorpaintreceptionRE.description>This indicates a floor decoration for a place to receive envoys or visitors from other factions.</RLE_FloorpaintreceptionRE.description>
+  <RLE_FloorpaintreceptionRE.label>Floor decoration "Lounge" (reverse orientation)</RLE_FloorpaintreceptionRE.label>
+  <RLE_Floorpaintvegetablefield.description>This floor decoration indicates that vegetables are grown ahead.</RLE_Floorpaintvegetablefield.description>
+  <RLE_Floorpaintvegetablefield.label>Floor decoration "Vegetable Garden"</RLE_Floorpaintvegetablefield.label>
+  <RLE_FloorpaintvegetablefieldRE.description>This floor decoration indicates that vegetables are grown ahead.</RLE_FloorpaintvegetablefieldRE.description>
+  <RLE_FloorpaintvegetablefieldRE.label>Floor decoration "Vegetable Garden" (reverse direction)</RLE_FloorpaintvegetablefieldRE.label>
+  <RLE_GeyserResourceCollector.description>A large device that filters minerals contained in steam and hot water erupting from intermittent springs and dispenses them once a certain amount has accumulated. The power required for operation is supplied by an internal geothermal power generator, and 500W of surplus power can be used for other facilities.\nThis device does not sort resources finely but dispenses them as 'Chunks of Recovered Resources', so an 'Expanded Rock Processing Machine' capable of sorting resources separately is required.\nThe dispensing interval for one 'Chunk of Recovered Resources' is approximately 5 days, and variations occur due to the condition of the intermittent spring.</RLE_GeyserResourceCollector.description>
+  <RLE_GeyserResourceCollector.label>Intermittent Spring Resource Recovery Device</RLE_GeyserResourceCollector.label>
+  <RLE_GeyserResourceRock.description>Resource lump recovered by the Geothermal Vent Resource Harvester. Can be crushed and sorted into multiple resources using an Expanded Rock Crusher.
+
+Obtainable resources: Steel: 35, Plasteel: 7, Gold: 4, Uranium: 6 (approximately equivalent to 200 Silver)</RLE_GeyserResourceRock.description>
+  <RLE_GeyserResourceRock.label>Recovered resource lump</RLE_GeyserResourceRock.label>
+  <RLE_HighCarbonResin.description>A durable material made with crushed stone as aggregate and bound with synthetic resin. Woven with carbon fibers, it is extremely strong. It is heavy and black. Ideal for wall construction but very difficult to work with.</RLE_HighCarbonResin.description>
+  <RLE_HighCarbonResin.label>High-carbon concrete</RLE_HighCarbonResin.label>
+  <RLE_HighCarbonResin.stuffProps.stuffAdjective>High-carbon concrete</RLE_HighCarbonResin.stuffProps.stuffAdjective>
+  <RLE_HighGradeSyntheticCloth.description>Inferior to Shinsleather but tougher than normal fabric.</RLE_HighGradeSyntheticCloth.description>
+  <RLE_HighGradeSyntheticCloth.label>High-Grade Synthetic Fabric</RLE_HighGradeSyntheticCloth.label>
+  <RLE_HighSmelter.description>Refines metals from scrap iron, slag, and other materials. Consumes a large amount of electricity but delivers corresponding power, completing work faster than a standard blast furnace. (Work speed 150%)</RLE_HighSmelter.description>
+  <RLE_HighSmelter.label>High-power blast furnace</RLE_HighSmelter.label>
+  <RLE_HydroponicsWithSunHigh.description>Standard artificial grower with a small solar lamp (fertility 350%). Because the pump that circulates nutrient-rich water must always be running, plants will rapidly die if power is cut off.</RLE_HydroponicsWithSunHigh.description>
+  <RLE_HydroponicsWithSunHigh.label>High-spec Hydroponic Grower with Solar Lamp (3x3 tiles)</RLE_HydroponicsWithSunHigh.label>
+  <RLE_HydroponicsWithSunLow.description>Standard artificial grower with a small solar lamp (fertility 180%). Because the pump that circulates nutrient-rich water must always be running, plants will rapidly die if power is cut off.</RLE_HydroponicsWithSunLow.description>
+  <RLE_HydroponicsWithSunLow.label>Hydroponics Bay with Solar Lights (3x3) Easy Spec</RLE_HydroponicsWithSunLow.label>
+  <RLE_HydroponicsWithSunNor.description>Standard-spec artificial cultivation unit equipped with a small solar light (fertility 280%). Because the pump circulating nutrient-rich water must always be operational, plants will rapidly die if power supply is interrupted.</RLE_HydroponicsWithSunNor.description>
+  <RLE_HydroponicsWithSunNor.label>Hydroponics Bay with Solar Lights (3x3) Normal Spec</RLE_HydroponicsWithSunNor.label>
+  <RLE_HydroponicsWithSunOmega.description>Standard spec artificial cultivation device equipped with a small sun lamp (fertility 2200%). Since the pump circulating nutrient-rich water must always be operating, plants will rapidly wither if power supply is cut off.</RLE_HydroponicsWithSunOmega.description>
+  <RLE_HydroponicsWithSunOmega.label>Hydroponic Grower with Sun Lamp (3x3 tiles) Omega Spec</RLE_HydroponicsWithSunOmega.label>
+  <RLE_HydroponicsWithSunVerSoil.description>Special artificial grower simulating fertile soil with a small solar lamp (fertility 140%). This device allows you to grow plants that can only be cultivated in soil. However, maintaining growth requires a certain amount of power, and if power is cut off, plants will rapidly die.\nThis is only useful when you absolutely must grow something that can only be cultivated in soil under extreme environmental conditions.</RLE_HydroponicsWithSunVerSoil.description>
+  <RLE_HydroponicsWithSunVerSoil.label>Soil Simulation Grower with Solar Lamp (3x3 tiles)</RLE_HydroponicsWithSunVerSoil.label>
+  <RLE_ImpurityFiltrationUnit.description>Upgrade equipment that rapidly removes impurities unnecessary for biofuel production.\nWork Speed +35%\nMaximum Connectable Distance: 6\nSimultaneous Connectable Count: 1\nConnectable Equipment: Advanced Biofuel Refinery &amp; Reactor</RLE_ImpurityFiltrationUnit.description>
+  <RLE_ImpurityFiltrationUnit.label>Impurity Filter Unit</RLE_ImpurityFiltrationUnit.label>
+  <RLE_IntegratedManagementDevice.description>Upgrade Facility. Monitors the operation status of manufacturing devices and controls output adjustments and engine cooling timing, etc.\nWork speed +25%\nMaximum connectable distance: 18\nSimultaneous connectable count: 1\nConnectable devices: Manufacturing equipment added by this MOD</RLE_IntegratedManagementDevice.description>
+  <RLE_IntegratedManagementDevice.label>Integrated Control Unit</RLE_IntegratedManagementDevice.label>
+  <RLE_LowSmelter.description>Refines metals from scrap iron and slag. Built to save steel, resulting in poor thermal efficiency. (Work Speed 75%)</RLE_LowSmelter.description>
+  <RLE_LowSmelter.label>Medium Firepower Blast Furnace</RLE_LowSmelter.label>
+  <RLE_MechaScrappertable.description>Specialized workbench for quickly disassembling mechanoids and recovering resources.</RLE_MechaScrappertable.description>
+  <RLE_MechaScrappertable.label>Mechanoid Disassembly Table</RLE_MechaScrappertable.label>
+  <RLE_MetalIngotPlasteel.description>A large ingot made by consolidating 325 plastic units. Can be broken down into 325 plastic units in a smelter. Due to its immense size and weight, it cannot be used directly for any processing. An orbital trader focused on resource collection might buy it at a high price.</RLE_MetalIngotPlasteel.description>
+  <RLE_MetalIngotPlasteel.label>Plastic Large Ingot</RLE_MetalIngotPlasteel.label>
+  <RLE_MetalIngotSilver.description>A large ingot made by consolidating 3250 silver units. Can be broken down into 3250 silver units in a smelter. Due to its immense size and weight, it cannot be used directly for any processing. An orbital trader focused on resource collection might buy it at a high price.</RLE_MetalIngotSilver.description>
+  <RLE_MetalIngotSilver.label>Silver Large Ingot</RLE_MetalIngotSilver.label>
+  <RLE_MetalIngotSteel.description>A large ingot formed by fusing 325 units of steel. Can be divided into 325 units of steel in a smelter. So massive and heavy that it cannot be used directly for any processing. An orbital trader focused on resource collection might buy it at a high price.</RLE_MetalIngotSteel.description>
+  <RLE_MetalIngotSteel.label>Large steel ingot</RLE_MetalIngotSteel.label>
+  <RLE_MetalIngotUranium.description>A large ingot made by consolidating 325 uranium units. Can be broken down into 325 uranium units in a smelter. Due to its immense size and weight, it cannot be used directly for any processing. An orbital trader focused on resource collection might buy it at a high price.</RLE_MetalIngotUranium.description>
+  <RLE_MetalIngotUranium.label>Uranium Large Ingot</RLE_MetalIngotUranium.label>
+  <RLE_NormalSmelter.description>Refines metals from scrap iron, slag, and other materials. (Work speed 100%)</RLE_NormalSmelter.description>
+  <RLE_NormalSmelter.label>Standard Blast Furnace</RLE_NormalSmelter.label>
+  <RLE_NumberDefMarkEight.label>Area number "8" default color</RLE_NumberDefMarkEight.label>
+  <RLE_NumberDefMarkEighteen.label>Area Number "18" Default Color</RLE_NumberDefMarkEighteen.label>
+  <RLE_NumberDefMarkEleven.label>Area number "11" default color</RLE_NumberDefMarkEleven.label>
+  <RLE_NumberDefMarkFive.label>Area Number "5" Default Color</RLE_NumberDefMarkFive.label>
+  <RLE_NumberDefMarkFour.label>Area Number "4" Default Color</RLE_NumberDefMarkFour.label>
+  <RLE_NumberDefMarkFourteen.label>Area number "14" default color</RLE_NumberDefMarkFourteen.label>
+  <RLE_NumberDefMarkNine.label>Area number "9" default color</RLE_NumberDefMarkNine.label>
+  <RLE_NumberDefMarkNineteen.label>Area Number "19" Default Color</RLE_NumberDefMarkNineteen.label>
+  <RLE_NumberDefMarkOne.label>Area Number "1" Default Color</RLE_NumberDefMarkOne.label>
+  <RLE_NumberDefMarkSeven.label>Area number "7" default color</RLE_NumberDefMarkSeven.label>
+  <RLE_NumberDefMarkSeventeen.label>Area Number "17" Default Color</RLE_NumberDefMarkSeventeen.label>
+  <RLE_NumberDefMarkSix.label>Area Number "6" Default Color</RLE_NumberDefMarkSix.label>
+  <RLE_NumberDefMarkSixteen.label>Area Number "16" Default Color</RLE_NumberDefMarkSixteen.label>
+  <RLE_NumberDefMarkTen.label>Area number "10" default color</RLE_NumberDefMarkTen.label>
+  <RLE_NumberDefMarkThirteen.label>Area number "13" default color</RLE_NumberDefMarkThirteen.label>
+  <RLE_NumberDefMarkThree.label>Area Number "3" Default Color</RLE_NumberDefMarkThree.label>
+  <RLE_NumberDefMarkTwelve.label>Area number "12" default color</RLE_NumberDefMarkTwelve.label>
+  <RLE_NumberDefMarkTwenty.label>Area Number "20" Default Color</RLE_NumberDefMarkTwenty.label>
+  <RLE_NumberDefMarkTwo.label>Area Number "2" Default Color</RLE_NumberDefMarkTwo.label>
+  <RLE_NumberDefMarkfifteen.label>Area Number "15" Default Color</RLE_NumberDefMarkfifteen.label>
+  <RLE_NumberRedMarkEight.label>Area number "8" red color</RLE_NumberRedMarkEight.label>
+  <RLE_NumberRedMarkEighteen.label>Area number "18" red color</RLE_NumberRedMarkEighteen.label>
+  <RLE_NumberRedMarkEleven.label>Area number "11" red color</RLE_NumberRedMarkEleven.label>
+  <RLE_NumberRedMarkFive.label>Area number "5" red color</RLE_NumberRedMarkFive.label>
+  <RLE_NumberRedMarkFour.label>Area number "4" red color</RLE_NumberRedMarkFour.label>
+  <RLE_NumberRedMarkFourteen.label>Area number "14" red color</RLE_NumberRedMarkFourteen.label>
+  <RLE_NumberRedMarkNine.label>Area number "9" red color</RLE_NumberRedMarkNine.label>
+  <RLE_NumberRedMarkNineteen.label>Area number "19" red color</RLE_NumberRedMarkNineteen.label>
+  <RLE_NumberRedMarkOne.label>Area Number "1" Red Color</RLE_NumberRedMarkOne.label>
+  <RLE_NumberRedMarkSeven.label>Area number "7" red color</RLE_NumberRedMarkSeven.label>
+  <RLE_NumberRedMarkSeventeen.label>Area number "17" red color</RLE_NumberRedMarkSeventeen.label>
+  <RLE_NumberRedMarkSix.label>Area number "6" red color</RLE_NumberRedMarkSix.label>
+  <RLE_NumberRedMarkSixteen.label>Area number "16" red color</RLE_NumberRedMarkSixteen.label>
+  <RLE_NumberRedMarkTen.label>Area number "10" red color</RLE_NumberRedMarkTen.label>
+  <RLE_NumberRedMarkThirteen.label>Area number "13" red color</RLE_NumberRedMarkThirteen.label>
+  <RLE_NumberRedMarkThree.label>Area number "3" red color</RLE_NumberRedMarkThree.label>
+  <RLE_NumberRedMarkTwelve.label>Area number "12" red color</RLE_NumberRedMarkTwelve.label>
+  <RLE_NumberRedMarkTwenty.label>Area number "20" red color</RLE_NumberRedMarkTwenty.label>
+  <RLE_NumberRedMarkTwo.label>Area number "2" red color</RLE_NumberRedMarkTwo.label>
+  <RLE_NumberRedMarkfifteen.label>Area number "15" red color</RLE_NumberRedMarkfifteen.label>
+  <RLE_PowerStabilizer.description>Upgrade facility.\nStabilizes voltage in unstable power sources and improves machine operation efficiency.\nWork speed +10%\nMaximum connectable distance: 12\nSimultaneous connectable count: 2\nConnectable facilities: Manufacturing facilities added by this MOD</RLE_PowerStabilizer.description>
+  <RLE_PowerStabilizer.label>Power Stabilizer</RLE_PowerStabilizer.label>
+  <RLE_PreReactor.description>Upgrade Equipment. A device that assists the progress of chemical reactions inside the synthetic resin manufacturing furnace.
+Work speed +40%
+Maximum connectable distance: 6
+Simultaneous connectable count: 1
+Connectable equipment: Synthetic Resin Manufacturing Unit</RLE_PreReactor.description>
+  <RLE_PreReactor.label>Auxiliary Reactor</RLE_PreReactor.label>
+  <RLE_RawBlendedFishA.label>Blend Fish A</RLE_RawBlendedFishA.label>
+  <RLE_RawBlendedFishB.label>Blend Fish B</RLE_RawBlendedFishB.label>
+  <RLE_RawBlendedMeatA.label>Blend Meat A</RLE_RawBlendedMeatA.label>
+  <RLE_RawBlendedMeatB.label>Blend Meat B</RLE_RawBlendedMeatB.label>
+  <RLE_RawBlendedMeatC.label>Blend Meat C</RLE_RawBlendedMeatC.label>
+  <RLE_RawBlendedMeatD.label>Blend Meat D</RLE_RawBlendedMeatD.label>
+  <RLE_ReactionAccelerator.description>Upgrade equipment that enhances the reactor's output and accelerates chemical reaction progress.\nWork Speed +25%\nMaximum Connectable Distance: 6\nSimultaneous Connectable Count: 2\nConnectable Equipment: Advanced Biofuel Refinery &amp; Reactor</RLE_ReactionAccelerator.description>
+  <RLE_ReactionAccelerator.label>Reaction Accelerator</RLE_ReactionAccelerator.label>
+  <RLE_ReinforcedSyntheticResin.description>Reinforced resin with higher carbon concentration, processed from bio-liquefied fuel. Properties are similar to steel.</RLE_ReinforcedSyntheticResin.description>
+  <RLE_ReinforcedSyntheticResin.label>Reinforced Synthetic Resin</RLE_ReinforcedSyntheticResin.label>
+  <RLE_ReinforcedSyntheticResin.stuffProps.stuffAdjective>Reinforced Resin</RLE_ReinforcedSyntheticResin.stuffProps.stuffAdjective>
+  <RLE_Rutileblock.description>Titanium ore used as raw material for producing Titanium. When heated and melted in a blast furnace, it can be separated into Steel and Titanium Slag.</RLE_Rutileblock.description>
+  <RLE_Rutileblock.label>Ilmenite (Titanium Ore)</RLE_Rutileblock.label>
+  <RLE_SlowSmelter.description>Refines metals from scrap iron and slag. Built by skimping on materials to make it barely functional, its firepower is quite weak. (Work Speed 50%)</RLE_SlowSmelter.description>
+  <RLE_SlowSmelter.label>Meager Blast Furnace</RLE_SlowSmelter.label>
+  <RLE_Superweave.description>Reinforced Synthetic Fiber. Much better than Synthread and tougher.</RLE_Superweave.description>
+  <RLE_Superweave.label>Superwave</RLE_Superweave.label>
+  <RLE_SyntheticResin.description>Standard synthetic resin processed from bio-liquefied fuel. Properties are similar to wood.</RLE_SyntheticResin.description>
+  <RLE_SyntheticResin.label>Synthetic Resin</RLE_SyntheticResin.label>
+  <RLE_SyntheticResin.stuffProps.stuffAdjective>Resin</RLE_SyntheticResin.stuffProps.stuffAdjective>
+  <RLE_SyntheticResinProcessingMachine.description>A device that processes bio-liquefied fuel to manufacture synthetic resin. It can also produce resins with special properties by adding specific materials.
+Installing a dedicated upgrade equipment significantly improves work speed.</RLE_SyntheticResinProcessingMachine.description>
+  <RLE_SyntheticResinProcessingMachine.label>Synthetic Resin Manufacturing Unit</RLE_SyntheticResinProcessingMachine.label>
+  <RLE_TTAlloy.description>An alloy of tungsten and titanium. A metal that improves processability while utilizing the hardness of tungsten, with excellent corrosion resistance.</RLE_TTAlloy.description>
+  <RLE_TTAlloy.label>W-Ti Alloy</RLE_TTAlloy.label>
+  <RLE_TTAlloy.stuffProps.stuffAdjective>W-Titanium Alloy</RLE_TTAlloy.stuffProps.stuffAdjective>
+  <RLE_TTCEAlloy.description>A material that was once used as armor for combat weapons on a certain planet. It maintains armor performance while improving workability and reducing weight.</RLE_TTCEAlloy.description>
+  <RLE_TTCEAlloy.label>Titanium Alloy Ceramic Composite</RLE_TTCEAlloy.label>
+  <RLE_TTCEAlloy.stuffProps.stuffAdjective>Alloy Composite</RLE_TTCEAlloy.stuffProps.stuffAdjective>
+  <RLE_Titanium.description>An excellent metal that is strong yet lighter than steel, with superior corrosion resistance. While its raw materials are widely distributed, the refining process requires extremely high technology, resulting in a prevalence rate on this planet that is overwhelmingly lower than plasteel. Its hardness makes it difficult to work with.</RLE_Titanium.description>
+  <RLE_Titanium.label>Titanium (Titan)</RLE_Titanium.label>
+  <RLE_Titanium.stuffProps.stuffAdjective>Made of titanium</RLE_Titanium.stuffProps.stuffAdjective>
+  <RLE_TitaniumSlug.description>High-purity titanium ore derived from titanium dioxide. Can be processed in a high-grade metal smelter to produce Titanium (Titanium).</RLE_TitaniumSlug.description>
+  <RLE_TitaniumSlug.label>Titanium Slag</RLE_TitaniumSlug.label>
+  <RLE_Tungsten.description>A hard, heavy, difficult-to-process, and robust metal. Its difficulty in processing makes it challenging to handle. While strong against blades, it is weak against large impacts.</RLE_Tungsten.description>
+  <RLE_Tungsten.label>Tungsten</RLE_Tungsten.label>
+  <RLE_Tungsten.stuffProps.stuffAdjective>Made of Tungsten</RLE_Tungsten.stuffProps.stuffAdjective>
+  <RLE_TungstenCarbide.description>An alloy of tungsten and carbon. Harder than tungsten itself, difficult to process, and an ultra-tough metal. In terms of hardness, it ranks second only to diamond. Its handling is difficult due to its difficulty in processing. It is strong against blades but weak against large impacts.</RLE_TungstenCarbide.description>
+  <RLE_TungstenCarbide.label>Tungsten Carbide</RLE_TungstenCarbide.label>
+  <RLE_TungstenCarbide.stuffProps.stuffAdjective>Made of Tungsten Carbide</RLE_TungstenCarbide.stuffProps.stuffAdjective>
+  <RLE_TungstenOxide.description>Powder that serves as the raw material for tungsten. It can be processed in a high-grade metal smelter to produce tungsten.</RLE_TungstenOxide.description>
+  <RLE_TungstenOxide.label>Tungsten Oxide</RLE_TungstenOxide.label>
+  <RLE_UnfinishedChemProduct.description>Synthetic fiber in processing</RLE_UnfinishedChemProduct.description>
+  <RLE_UnfinishedChemProduct.label>Incomplete synthetic fiber</RLE_UnfinishedChemProduct.label>
+  <RLE_UnfinishedMetalProduct.description>Metal being processed.</RLE_UnfinishedMetalProduct.description>
+  <RLE_UnfinishedMetalProduct.label>Incomplete metal</RLE_UnfinishedMetalProduct.label>
+  <RLE_UnfinishedResinProduct.description>Synthetic resin in processing</RLE_UnfinishedResinProduct.description>
+  <RLE_UnfinishedResinProduct.label>Incomplete synthetic resin</RLE_UnfinishedResinProduct.label>
+  <RLE_Wolframite.description>Tungsten ore, which is the raw material for producing tungsten. Refining it in a high-grade metal smelter allows you to purify tungsten oxide.</RLE_Wolframite.description>
+  <RLE_Wolframite.label>Wolframite (tungsten ore)</RLE_Wolframite.label>
+</LanguageData>

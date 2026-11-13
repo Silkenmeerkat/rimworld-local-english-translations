@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Fast_MT_A_Gas.description>Fast MT Helmet Type A (equipped with VST90 Gas Mask).</Fast_MT_A_Gas.description>
+  <Fast_MT_A_Gas.label>Fast MT Helmet Type A (equipped with VST90 Gas Mask)</Fast_MT_A_Gas.label>
+  <MR_SC_AVS.description>The AVS system, introduced by CP in 2013, is the full name "ADAPTIVE VEST SYSTEM", a revolutionary system that can quickly convert from low-visibility gear to a fully armed load-bearing vest through various attachments. Different accessories can be selected based on mission requirements, making it a modular tactical vest.</MR_SC_AVS.description>
+  <MR_SC_AVS.label>AVS Body Armor</MR_SC_AVS.label>
+  <MR_SC_G3CombatShirt.description>G3 COMBAT SHIRT Multi-purpose quick-dry breathable tactical T-shirt.</MR_SC_G3CombatShirt.description>
+  <MR_SC_G3CombatShirt.label>G3 Combat Shirt Tactical T-Shirt</MR_SC_G3CombatShirt.label>
+  <MR_SC_G3CombatTrousers.description>The G3 tactical pants are designed as a no-nonsense assault suit with bold tailoring for maximum flexibility.\n\nThis field-proven pant features 2-inch waist increments and multiple lengths for a perfect fit. It has a unique padded waistband, high-mobility stretch panels at the knees and waist, and 10 pockets.</MR_SC_G3CombatTrousers.description>
+  <MR_SC_G3CombatTrousers.label>G3 Combat Shirt Tactical Pants</MR_SC_G3CombatTrousers.label>
+  <MR_SC_JPC.description>A very useful body armor.</MR_SC_JPC.description>
+  <MR_SC_JPC.label>JCS Body Armor</MR_SC_JPC.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bullet_190SS.label>SS190 bullet</Bullet_190SS.label>
+  <Bullet_277A.label>Hybird bullet</Bullet_277A.label>
+  <Bullet_300BLK.label>.300 BLK bullet</Bullet_300BLK.label>
+  <Bullet_338LM.label>.338AP bullet</Bullet_338LM.label>
+  <Bullet_51N.label>M80 bullet</Bullet_51N.label>
+  <Bullet_54R.label>7N37 bullet</Bullet_54R.label>
+  <Bullet_939A.label>SP5 bullet</Bullet_939A.label>
+  <Bullet_9AP.label>7N31 bullet</Bullet_9AP.label>
+  <Bullet_APSX.label>APSX Bullet</Bullet_APSX.label>
+  <Bullet_CCI.label>Ruger CCI Bullet</Bullet_CCI.label>
+  <Bullet_SSAAP.label>SSAAP Armor-Piercing Bullet</Bullet_SSAAP.label>
+  <Bullet_WG.label>5.56 Fury Bullet</Bullet_WG.label>
+</LanguageData>
