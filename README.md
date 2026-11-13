@@ -101,7 +101,9 @@ Updates published here are separate from Steam Workshop updates. When a source m
 - The patch declares RimWorld **1.6 and 1.7** support. It was generated against the mods installed alongside RimWorld 1.7; version declarations are not a claim of full testing on both versions.
 - Source text was taken from the newest installed version folder for each mod. A mod's load-folder rules may select a different subset in another game version or mod configuration.
 - Most translations were generated locally with **Ollama qwen3.5:9b**, followed by selected terminology corrections. Expect occasional awkward wording or inconsistent names.
-- Offline checks passed for XML parsing, duplicate keys, conditional folders, source text paths, preserved placeholders, and rich-text tags.
+- Offline checks cover XML parsing, duplicate keys, conditional folders, source text paths, preserved placeholders, and rich-text tags. Repository regression tests also check unique language-file paths across load roots and English labels for all seven blessed devilstrand cloth colors.
+- Translation filenames include their source package ID. RimWorld overlays a mod's load folders, so reusing a filename such as `ThingDef/Local.xml` across those folders can hide another folder's translations. This fixes the filename collisions in the initial release.
+- Run the repository tests with `python3 -m unittest discover -s tests`.
 - Full in-game verification has **not** been completed. Hard-coded DLL strings, text embedded in images, inherited abstract definitions, and text introduced by XML patch operations may remain untranslated.
 - Existing English translations were retained unless selected entries still contained CJK text. Contributor names in Project RimFactory's already-English credits were deliberately left unchanged; that mod is not included in this patch.
 - This patch does not alter original Workshop files or intentionally change gameplay. Keeping the original files untouched allows Steam to update them normally.
